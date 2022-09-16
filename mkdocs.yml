@@ -1,3 +1,14 @@
 site_name: Linguistics Handbook
 theme:
   name: material
+  palette:
+    primary: deep orange
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+features:
+  - navigation.tracking
+  - navigation.instant
+  - navigation.tabs
+  # - navigation.tabs.sticky
