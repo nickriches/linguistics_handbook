@@ -1,16 +1,17 @@
-# 01 - Introduction
+# Introduction
 
-## Why SLTS need to know about linguistics
+## Introduction
 
-- Is a child who says _Him go there_ language impaired?
-- CELF Formulating Sentences - what kind of linguistic skills are being measured?
+### Why SLTS need to know about linguistics
 
-1. __Diagnose__ language impairments
-2. Identify __targets__ for therapy
-3. Devise __new__ therapies
+* Is a child who says _Him go there_ language impaired?
+* CELF Formulating Sentences - what kind of linguistic skills are being measured?
+* ![celf4_fs](celf4_fs.png)
+* **Diagnose** language impairments
+* Identify **targets** for therapy
+* Devise **new** therapies
 
-
-# What is linguistics?
+## What is linguistics?
 
 The study of language, consisting of 4 subdomains
 
@@ -19,23 +20,23 @@ The study of language, consisting of 4 subdomains
 3. phonology: the sound system of language
 4. pragmatics: language in context
 
-## What is syntax?
+### What is syntax?
 
-- Syntax encompasses word order, and how different languages form different structures
-- Example of different word orders in different languages:
-  - English Subject-Verb-Object, e.g. <u>Tom</u> watches **TV**
-  - Japanese SOV, e.g. <u>Tom-san-wa</u> **Terebi-o** Mimashita
-- Examples of the way different languages form questions:
-  - English questions involve movement, e.g. _What __is__ he _ doing?_
-  - Japanese places 'ka' at the end
-  - Spanish merely uses intonation
+* Syntax encompasses word order, and how different languages form different structures
+* Example of different word orders in different languages:
+  * English Subject-Verb-Object, e.g. Tom watches **TV**
+  * Japanese SOV, e.g. Tom-san-wa **Terebi-o** Mimashita
+* Examples of the way different languages form questions:
+  * English questions involve movement, e.g. _What **is** he_  doing?\_
+  * Japanese places 'ka' at the end
+  * Spanish merely uses intonation
 
-## What is semantics?
+### What is semantics?
 
-- The study of word and sentence meaning
-- BIG QUESTIONS: How are word meanings represented / expressed? How are word meanings combined to form sentence meanings?
+* The study of word and sentence meaning
+* BIG QUESTIONS: How are word meanings represented / expressed? How are word meanings combined to form sentence meanings?
 
-## What is pragmatics
+### What is pragmatics
 
 The study of language in context
 
@@ -44,43 +45,41 @@ B: I don't like action movies.
 
 Interpretation 'no thanks' is only derivable if sentence is produced in the appropriate context
 
-## What is phonology?
+### What is phonology?
 
-- Ask Ghada and Jalal!!
+* Ask Ghada and Jalal!!
 
-## Crossing over
+### Crossing over
 
 While it is tempting to think in neat subfields, many phenomena cross over
 
-e.g. The meaning of verbs (semantics) determines the number of participants in a sentence, which in turn determines the structure.
+e.g. The meaning of verbs \(semantics\) determines the number of participants in a sentence, which in turn determines the structure (syntax).
 
-1. <u>John</u> [1] **gave** Mary [2] <u>a book</u> [3]
+1. John \[1\] **gave** Mary \[2\] a book \[3\]
 
 Because of these cross-over phenomena, linguists often talk about the 'interfaces' between the different subdomains, e.g. the syntax-semantic interface.
 
-## Subfields of linguistics
+### Subfields of linguistics
 
-__Theoretical linguistics__: investigates the nature of linguistic knowledge. IMPORTANT QUESTIONS: Are we born with knowledge of language? How do we explain similarities and differences across languages?
+**Theoretical linguistics**: investigates the nature of linguistic knowledge. IMPORTANT QUESTIONS: Are we born with knowledge of language? How do we explain similarities and differences across languages?
 
-__Psycholinguistics__: investigates how we comprehend and produce language. IMPORTANT QUESTIONS: Is the human mind similar to desktop computer? Does the language we speak affect the way we think?
+**Psycholinguistics**: investigates how we comprehend and produce language. IMPORTANT QUESTIONS: Is the human mind similar to desktop computer? Does the language we speak affect the way we think?
 
-__Sociolinguistics__: investigates how and why language varies across different social classes and groupings.
+**Sociolinguistics**: investigates how and why language varies across different social classes and groupings. E.g. William Labov's famous (1963) study of Martha's Vinyard. He studies centralisation of diphthongs (multi-sound vowels). He pioneered methods to elicit relevant words without using word lists. He found an association between self-identification as a native and use of centralisation. Centralisation increased in response to an influx of non-natives. This shows that the language we use "indexes" our social identity.
 
-Sociolinguists explore how language expresses or "indexes" social identity. William Labov is one of the pioneers in this area, with his seminal study on accent in Martha's Vinyard.
+**Discourse studies**: How we use language to persuade / exert power relationships.
 
-If language indexes social identity, then criticism of the language they use can be construed as an attack on their identity.
+## Approaches to language structure
 
-__Discourse studies__: How we use language to persuade / exert power relationships.
+### Prescriptive grammars - how we SHOULD speak
 
-# Approaches to language structure
+Prescriptive judgements regarding language usage are periodically proposed by influential individuals. Key targets of prescriptive judgements are the double negative and use of *innit* as a tage question. Linguists would not regard either of these forms as "bad" English. The key thing is that they are (a) shared among a speech community (b) adequately convey a message, i.e. do not lead to ambiguity and misunderstanding.
 
-## Prescriptive grammars - how we SHOULD speak
+\(1\) **Double negative**: I haven't got no money / I can't get no satisfaction
 
-(1) **Double negative**: I haven't got no money / I can't get no satisfaction
+Acceptable in certain dialects \(e.g. London English\) and languages \(e.g. Spanish\). It does not cause confusion as many prescriptivists claim.
 
-Acceptable in certain dialects (e.g. London English) and languages (e.g. Spanish). It does not cause confusion as many prescriptivists claim.
-
-(2) Use of **innit** as a tag question
+\(2\) Use of **innit** as a tag question
 
 1. It was a great meal, _wasn't it_ / _innit_?
 2. You're Jack's nephew, _aren't you_ / _innit_?
@@ -88,22 +87,22 @@ Acceptable in certain dialects (e.g. London English) and languages (e.g. Spanish
 
 This simplifies tag questions, but why is that a bad thing? Many languages create tag questions using single morphemes, e.g. Bengali _kanna_.
 
-(3) **African-American Vernacular English**:
+\(3\) **African-American Vernacular English**:
 
-1. He be working Tuesdays (he is usually working on a Tuesday)
-2. He been got a job (he got a job a long time ago)
+1. He be working Tuesdays \(he is usually working on a Tuesday\)
+2. He been got a job \(he got a job a long time ago\)
 
-It grammaticalises concepts which are not grammaticalised in Standard English. Therefore it is RICHER.
+It grammaticalises concepts which are not grammaticalised in Standard English. Therefore it is RICHER (with regard to certain grammatical subsystems).
 
 So how do prescriptive grammars arise? They reflect the dominant dialect in the country, which in turn is a consequence of which regions hold the most political and economic power. As Weinreich said **'A language is a dialect with an army and a navy'**
 
-## Descriptive grammars - how we ACTUALLY speak
+### Descriptive grammars - how we ACTUALLY speak
 
-Geordie English: No plural suffix for nouns denoting a time period, e.g. *I've been here three year.*
+Geordie English: No plural suffix for nouns denoting a time period, e.g. _I've been here three year._
 
 Scottish English: Use of _amn't I_? as a tag question, e.g. _I'm next in line, **amn't I**?_
 
-## Mental grammars - the underlying system
+### Mental grammars - the underlying system
 
 Which of these sentences is correct?
 
@@ -116,31 +115,37 @@ Now which is the way you _actually_ say the sentence?
 
 Note that there is a conflict between prescriptive and mental grammars. Individuals who allow prescriptive grammars to override mental grammars are guilty of 'hypercorrection'
 
-# A communicative view of language
+## Hypercorrection
 
-## Definition
+This is a phenomena whereby we override our mental grammar, and instead adopt a prescriptive grammar. Our natural tendency is to say *Me and Jack went to the shops*. This is our **mental grammar**. However, in certain formal contexts, we may say *Jack and I went to the shops*, which is often prescribed at school.
 
-(1) Language is primarily a form a communication and all linguistic 'rules' subserve this goal
+Hypercorrection is interesting because (a) it shows the power of prescriptive grammar (b) it can occasionally lead to communication breakdowns.
 
-(2) Linguistic 'rules' are established by speech communities
+## A communicative view of language
 
-(3) A sentence is 'well-formed' if it reliably expresses the speaker's thoughts using forms which are 'conventionalised', i.e. shared by the speaker's speech community.
+### Definition
 
-## Relationship with SLT practice
+\(1\) Language is primarily a form a communication and all linguistic 'rules' subserve this goal
+
+\(2\) Linguistic 'rules' are established by speech communities
+
+\(3\) A sentence is 'well-formed' if it reliably expresses the speaker's thoughts using forms which are 'conventionalised', i.e. shared by the speaker's speech community.
+
+### Relationship with SLT practice
 
 When assessing children we should evaluate their language according to the norms of their speech community
 
 For example, deviations from the target when scoring sentence repetition which are _consistent with the speaker's dialect_ are not scored as an error.
 
-**Easton and Verdon (2021)** - study on how SLT years experience and attitudes to dialect shape diagnostic process.
+"The Influence of Linguistic Bias Upon Speech-Language Pathologists’ Attitudes Toward Clinical Scenarios Involving Nonstandard Dialects of English", Easton and Verdon, 2020
 
-12-year-old You observe a 12-year-old gir l in her Grade 6 classroom working on a task with a small group of her peers. You notice she is consistently leaving endings off words, such as in “Because he ride his bike to school.” She refers to her friends as “youse” and uses verb forms such as “His mother grew him up.”
+- Therapists were given dialect-related clinical scenarios, and needed to make clinical judgements
+- Length of experience was correlated with more careful clinical judgements
+- Positive attitudes to dialect difference were correlated with more careful clinical judgements.
 
-Items chosen so that nonstandard uses could potentially arise from local Australian dialects. SLTs with (a) more experience and (b) more positive attitudes to dialect were more likely to be unsure about diagnosis and suggest further assessment.
+## 5-minute exercise
 
-# 5-minute exercise
-
-What is the grammatical word class (e.g. noun, verb, adjective etc.) of the italicised words in the following sentences:
+What is the grammatical word class \(e.g. noun, verb, adjective etc.\) of the italicised words in the following sentences:
 
 1. The _raging_ river tore through the valley
 2. That film really _sucks_

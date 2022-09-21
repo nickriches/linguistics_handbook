@@ -14,13 +14,13 @@ Some forms of learning are much more abstract not amenable to flashcards. An exa
 
 \-    Provide a **definition**, but with a word missing, e.g.
 
-`A Noun is word which often refers to a  (thing). It is often preceded by a ___ (Determiner)`
+`A Noun is word which often refers to a ___ (thing). It is often preceded by a ___ (Determiner)`
 
-\-    Create a **multiple choice question**, e.g. In the following sentence, which word is a noun? “The horse ran quickly” 
+\-    Create a **multiple choice question**, e.g. In the following sentence, which of the following properties does not describe a Noun
 
-- Horse &#10004;
-- Ran
-- Quickly 
+- It takes the suffix -ing &#10004;
+- It takes the suffix -s (in the regular form)
+- It is often prceded by a detrminer
 
 \-    Create an **open-ended “list” question**, e.g. “List three properties of a Noun” (Possible answers: it tends to refer to a thing, it inflects for plural, e.g. *horses*, it comes after a determiner, e.g. *the horse*, it “agrees” with a verb, e.g. *the horse runs, the horses run_* etc.)
 
@@ -34,15 +34,13 @@ Words are concrete and easy to test using flashcard systems. For other kinds of 
 
 While you are thinking about clever procedures to test yourself on everything you need to know, just start taking some notes. Take a blank sheet of paper, or open up a note-taking app, and try to recall everything you need to know in note form. By taking notes you are having to actively recall and process the information you have learnt. For example, because you are incapable of rapidly writing down everything the lecturer says (unless you are a word-record typist or short-hand expert), you are having to identify the most important points when notetaking. Also, because human memory for linguistic form is generally weaker than our memory for linguistic meaning, you will have to write down the main points of the lecture in your own words, and in this way you are having to actively process the information.
 
-An additional benefit of note-taking is that you can easily show the structure of the material you are learning using headings and subheadings. All of the material you learn will have some kind of structure, e.g. a theory might consist of three key arguments, and the ICF clinical framework consists of four areas of functioning. Lectures, themselves will be organised into discrete sections. Moreover, there is evidence to suggest that information is more adequately processed and retained when it is explicitly integrated into a larger structure. For example the regular use of headings and subheadings in written passages helps the reader to read more quickly and accurately, and recall more information (Hyönä & Lorch, 2004; Lorch & Lorch, 1996; Sanchez et al., 2001).
+An additional benefit of note-taking is that you can easily show the structure of the material you are learning using headings and subheadings. All of the material you learn will have some kind of structure, e.g. a theory might consist of three key arguments, and the ICF clinical framework consists of four areas of functioning. Lectures themselves will be organised into discrete sections. Moreover, there is evidence to suggest that information is more adequately processed and retained when it is explicitly integrated into a larger structure. For example the regular use of headings and subheadings in written passages helps the reader to read more quickly and accurately, and recall more information (Hyönä & Lorch, 2004; Lorch & Lorch, 1996; Sanchez et al., 2001).
 
 However, while the information you are given fits into an overarching structure, the technology which is used to deliver lectures is not great for showing structure. Powerpoint does not show structure very well, as it invites the user to create a continuous chain of slides. Sometimes lecturers add “Table of Contents” slides, but this is not that widely practised. By making notes you can actually impose structure on the material you are learning, using headings and subheadings, and this will help you to learn that material.
 
 ## The Cornell note-taking system
 
-A good tried and tested note-taking system is called “Cornell Notes”, which was devised by  Prof. Walter Pauk of Cornell University in the 1950s. If you do an internet search you will find loads of materials on this approach. Here is one link to start you off: https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b
-
- 
+A good tried and tested note-taking system is called “Cornell Notes”, which was devised by  Prof. Walter Pauk of Cornell University in the 1950s. If you do an internet search you will find loads of materials on this approach. Here is one [link](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b) to start you off.
 
 ## Why writing notes on slides may not be helpful
 
@@ -83,6 +81,8 @@ There is a whole host of technology out there for you to explore when it comes t
 These are technologies which incorporate note-taking and flashcards in a single app. The idea is that you can use them to take notes, and quickly generate flashcards to test yourself.
 
 **Remnote** (https://www.remnote.com) – Very user-friendly, online but also with a local app. It is explicitly designed for students. However, make sure you regularly back up your data to your local computer and don’t leave it sitting in the cloud (Remnote provides an easy way to do this).
+
+**Obsidian** - (https://obsidian.md) - Very popular note-taking app with revision features incorporated via plugins.
 
 **Logseq** (https://logseq.com) – Wonderful open-source notetaking and general organisational app. However, the learning curve is steeper than remnote. A big advantage is that you have complete ownership of your data.
 
