@@ -1,4 +1,4 @@
-# Introduction
+# 01 - Introduction
 
 ## Introduction
 
@@ -119,7 +119,7 @@ Note that there is a conflict between prescriptive and mental grammars. Individu
 
 This is a phenomena whereby we override our mental grammar, and instead adopt a prescriptive grammar. Our natural tendency is to say *Me and Jack went to the shops*. This is our **mental grammar**. However, in certain formal contexts, we may say *Jack and I went to the shops*, which is often prescribed at school.
 
-Hypercorrection is interesting because (a) it shows the power of prescriptive grammar (b) it can occasionally lead to communication breakdowns.
+Hypercorrection is interesting because it shows that prescriptive grammar has a lot of power over us.
 
 ## A communicative view of language
 
