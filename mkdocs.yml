@@ -25,4 +25,4 @@ features:
   # - navigation.tabs.sticky
 plugins:
   - search
-  - print-site
+  # - print-site
