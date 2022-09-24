@@ -6,7 +6,15 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 features:
   - navigation.tracking
   - navigation.instant
