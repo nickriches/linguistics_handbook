@@ -3,6 +3,9 @@ theme:
   name: material
   palette:
     primary: deep orange
+  features:
+    - navigation.expand # Makes sure that pages are not collapsed in sidebar on left
+    - navigation.top # Back to top button
 markdown_extensions:
   - toc:
       permalink: true
@@ -10,7 +13,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.tilde
+  - pymdownx.tilde # Enables use of tilde for subscript
   - tables
   - admonition
   - pymdownx.details
