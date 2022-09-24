@@ -23,3 +23,6 @@ features:
   - navigation.instant
   - navigation.tabs
   # - navigation.tabs.sticky
+plugins:
+  - search
+  - print-site
