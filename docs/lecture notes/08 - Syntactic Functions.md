@@ -1,6 +1,8 @@
-# What are functions?
+# 08 - Syntactic Functions
 
-## Behaviour of phrases in different positions
+## What are functions?
+
+### Behaviour of phrases in different positions
 
 1. [ The smelly brown dog $_{NP}$] chased the scrawny grey cat
 2. The scrawny grey cat chased [ the smelly brown dog $_{NP}$]
@@ -13,7 +15,7 @@ The phrases have **syntactic functions**
 
 Functions are **relational** they express **relationships** between phrases. Most functions are defined **in relation to the verb**.
 
-## 5 minute exercise
+### 5 minute exercise
 
 Try to learn the following artificial language
 
@@ -29,9 +31,9 @@ How did you complete the artificial language learning task?
 
 You figured out that particular positions in the sentences had particular FUNCTIONS. e.g. Subject, Verb, Object.
 
-# Functions and sentence position
+## Functions and sentence position
 
-# Obligatory functions - Subjects and Verbs
+### Obligatory functions - Subjects and Verbs
 
 Almost all sentences of English needs a **Subject** and a **Verb**
 

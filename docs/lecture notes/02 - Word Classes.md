@@ -1,4 +1,4 @@
-# 02 - Words
+# 02 - Word classes
 
 ## Definition
 
