@@ -18,6 +18,11 @@ Apart from the main cause ("We're looking for Girls", "Always should be someone"
 
 We're going to be looking at these different types of clauses.
 
+## Clinical relevance
+
+1. Language impaired individuals have particular difficulties comprehending and producing "complex" sentences
+2. Complex sentences are particularly important in educational and workplace settings.
+
 ## Other types of dependent clause
 
 Last week, we looked at adverbial clauses, these come inside an adverbial:
