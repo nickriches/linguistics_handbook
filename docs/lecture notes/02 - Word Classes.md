@@ -2,26 +2,56 @@
 
 ## Definition
 
-Working definition is 'minimal standalone symbolic unit'
+Working definition is 'Minimal Independent Symbolic Unit' (MISU)
 
-(1) Symbolic = arbitrary relationship between form and function (as described by the linguistic Charles Sanders Pierce 1839 - 194)
+#### Minimal
 
-(2) Standalone = make sense in isolation, e.g.
+This means that words cannot be divided into smaller standalone units
+
+1. Inactive -> *One sip of coffee and Charles changes from **in-** to hyper-**active**.
+2. Underconfident -> ?After eight pints, Angela changes from **under-** to over-**confident**. 
+3. Walk out -> She **walked** through the door and **out** of my life.
+4. Blackbird (species) -> *She saw a **black** and a white **bird** in the tree
+5. Black magic -> ?The witch practises both **black** and white **magic**
+
+#### Independent
+
+This property can be defined in a couple of ways:
+
+(a) Words are interpretable in isolation, e.g.
 
 1. A: What was he doing? B: Working
 2. B: How would you describe the experience? B: Unbelievable
 3. Shark!!!!!!!!
 4. Swim!!!!!!!!!
 
-(3) Minimal = cannot be divided into smaller standalone units
+(b) Words can move around the sentence, e.g.
 
-1. Inactive -> *One sip of coffee and Charles changes from **in-** to **hyper-active**.
-2. Underconfident -> ?After eight pints, Angela changes from **under-** to **over-confident**. 
-3. Walk out -> She **walked through** the door and **out** of my life.
-4. Blackbird (species) -> *She saw a **black** and a **white bird** in the tree
+1. The **dog** chased the cat
+2. The cat chased **the dog**
+3. He loves being with his **dog**
 
+#### Symbolic
 
-This definition is not perfect, e.g. some items classified as words cannot stand alone, e.g. _the_ dog, and some words are not purely symbolic, e.g. _buzz_, _whisper_.
+This means that there is an **arbitrary** relationship between **form** and **function** (or **sound** and **meaning**)
+
+To test this, we can take a single concept, and look at words to describe this concept across languages. The words will have very different sound properties.
+
+The property of symbolism was listed by the linguist Charles Sanders Pierce (1839 - 194) as a key defining property of human languages
+
+### A dirty secret - there is no adequate definition of a word
+
+All of the properties which are used to define a word: minimality, independence, and symbolism, are in fact gradable.
+
+For example *black magic* is weakly minimal as when the two units are separate it sounds ever so slightly odd, e.g. ?The witch practises both **black** and white **magic**
+
+Independence is also highly gradable. Both *mood* and *tizz* occur with similar meanings in the phrase, *He is in a mood / tizz*. But only *mood* can easily move around a sentence, e.g. *His mood was dark*. Moroever, if someone were to say *tizz* in isolation and ask you if it's a word you might find this difficult. You would probably say "yes" on the basis that it occurs in the phrase *in a tizz* but you would need to think carefully about this.
+
+Some types of word classes lack independence, e.g. determiners such as *the*.
+
+Finally, symbolism is also gradient. There is lots of interesting work demonstrating that sound symbolism is quite widespread in the world's languages. For example, words referring to rough textures tend to contain an trilled /r/ sound.
+
+So when in clinic you are analysing a sentence, and you're deciding to determine whether a lexical unit is a real word, there may not be a perfect yes/no answer!
 
 ## Word classes
 
@@ -29,7 +59,7 @@ Words belong to word classes / syntactic categories
 
 The word class determines how we put words together to make sentences
 
-## Semantic definitions - why the don't work very well
+### Semantic definitions - why the don't work very well
 
 Typical examples:
 
@@ -43,7 +73,7 @@ But are the following adjectives or verbs?
 
 These examples demonstrate that semantic/functional definitions of words fall short
 
-## 3 ways to define word classes
+### 3 ways to define word classes
 
 (a) Semantics / meaning-based test, e.g. a verb is a 'doing' word.
 
@@ -63,11 +93,11 @@ The positional test is the most reliable, e.g.
 ### Categorization of word classes
 
 1. Content versus function words
-   1. Content words = Nouns, Verbs, Adjectives, Adverbs. (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
-   2. Function words = Determiners, Prepositions
+   1. Content words = Nouns, Verbs, Adjectives, Adverbs (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
+   2. Function words = Determiners, Pronouns, Prepositions (and maybe certain types of verbs, we will come to this later)
 2. Open versus closed class. Open class words permit new members, while closed class words don't. NB all content words are open, and all function words are closed.
    1. Open = Nouns, Verbs, Adjectives, Adverbs
-   2. Closed = Determiners, Prepositions.
+   2. Closed = Determiners, Pronouns, Prepositions.
 3. What the words do in the sentence?
    1. Referring words = Nouns, Pronouns
    2. Modifying words = Adjectives and Adverbs
@@ -88,7 +118,7 @@ Children with language impairments
 - Have reduced verb diversity
 - Sometimes omit arguments of the verb, e.g. 'She put the books'
 
-# 5 minutes exercise
+## 5 minutes exercise
 
 What's unusual about the following sentence: "That film was absobloodylutely brilliant!"?
 
