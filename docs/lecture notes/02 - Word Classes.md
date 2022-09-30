@@ -93,21 +93,21 @@ The positional test is the most reliable, e.g.
 ### Categorization of word classes
 
 1. Content versus function words
-   1. Content words = Nouns, Verbs, Adjectives, Adverbs (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
-   2. Function words = Determiners, Pronouns, Prepositions (and maybe certain types of verbs, we will come to this later)
+   - Content words = Nouns, Verbs, Adjectives, Adverbs (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
+   - Function words = Determiners, Pronouns, Prepositions (and maybe certain types of verbs, we will come to this later)
 2. Open versus closed class. Open class words permit new members, while closed class words don't. NB all content words are open, and all function words are closed.
-   1. Open = Nouns, Verbs, Adjectives, Adverbs
-   2. Closed = Determiners, Pronouns, Prepositions.
+   - Open = Nouns, Verbs, Adjectives, Adverbs
+   - Closed = Determiners, Pronouns, Prepositions.
 3. What the words do in the sentence?
-   1. Referring words = Nouns, Pronouns
-   2. Modifying words = Adjectives and Adverbs
+   - Referring words = Nouns, Pronouns
+   - Modifying words = Adjectives and Adverbs
 4. Where do they appear in the sentence?
-   1. The verb complex tends to contain auxiliary verbs and adverbs in addition to the verb itself
-   2. The Noun Phrase tends to contain determiners and adjectives in addition to the noun itself
-   3. Prepositions are used before the Noun Phrase.
+   - The verb complex tends to contain auxiliary verbs and adverbs in addition to the verb itself
+   - The Noun Phrase tends to contain determiners and adjectives in addition to the noun itself
+   - Prepositions are used before the Noun Phrase.
 5. Super- and sub-types
-   1. Types of modifying words: adjectives and adverbs
-   2. Types of referring words (nominals): Nouns and Pronouns
+   - Types of modifying words: adjectives and adverbs
+   - Types of referring words (nominals): Nouns and Pronouns
 
 ## Word classes and language impairment
 
