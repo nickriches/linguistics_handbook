@@ -6,7 +6,7 @@ You might think that words are "things which are separated by a spaces on the pa
 
 But spaces are not necessarily a good indicator of wordhood
 
-E.g. Different dictionaries will list nighttime, night-time or night time. So conventions are faily arbitrary.
+E.g. Different dictionaries will list *nighttime*, *night-time* or *night time*. So conventions are fairly arbitrary.
 
 Something which are multiple words on a page, actually behave semantically like a single word
 
@@ -153,7 +153,9 @@ What's unusual about the following sentence: "That film was absobloodylutely bri
 
 A student says 'I am going to a lection'. What does 'lection' mean, and how has this error arisen?
 
+## Bibliography
 
+Blasi, D. E., Wichmann, S., Hammarstrom, H., Stadler, P. F., \& Christiansen, M. H. (2016). Sound-meaning association biases evidenced across thousands of languages. Proceedings of the National Academy of Sciences, 113(39), 10818-10823. https://doi.org/10.1073/pnas.1605782113
 
 
 
