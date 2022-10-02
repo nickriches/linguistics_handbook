@@ -1,5 +1,17 @@
 # 02 - Word classes
 
+## Words on the page
+
+You might think that words are "things which are separated by a spaces on the page"
+
+But spaces are not necessarily a good indicator of wordhood
+
+E.g. Different dictionaries will list nighttime, night-time or night time. So conventions are faily arbitrary.
+
+Something which are multiple words on a page, actually behave semantically like a single word
+
+e.g. He has a lot of *joie de vivre*
+
 ## Definition
 
 Working definition is 'Minimal Independent Symbolic Unit' (MISU)
@@ -49,7 +61,7 @@ Independence is also highly gradable. Both *mood* and *tizz* occur with similar 
 
 Some types of word classes lack independence, e.g. determiners such as *the*.
 
-Finally, symbolism is also gradient. There is lots of interesting work demonstrating that sound symbolism is quite widespread in the world's languages. For example, words referring to rough textures tend to contain an trilled /r/ sound.
+Finally, symbolism is also gradient. There is lots of interesting work demonstrating that sound symbolism is quite widespread in the world's languages. For example, across languages the word for `tongue' often contains /l/ (Blasi et al., 2016).
 
 So when in clinic you are analysing a sentence, and you're deciding to determine whether a lexical unit is a real word, there may not be a perfect yes/no answer!
 
@@ -92,22 +104,39 @@ The positional test is the most reliable, e.g.
 
 ### Categorization of word classes
 
-1. Content versus function words
-   - Content words = Nouns, Verbs, Adjectives, Adverbs (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
-   - Function words = Determiners, Pronouns, Prepositions (and maybe certain types of verbs, we will come to this later)
-2. Open versus closed class. Open class words permit new members, while closed class words don't. NB all content words are open, and all function words are closed.
-   - Open = Nouns, Verbs, Adjectives, Adverbs
-   - Closed = Determiners, Pronouns, Prepositions.
-3. What the words do in the sentence?
-   - Referring words = Nouns, Pronouns
-   - Modifying words = Adjectives and Adverbs
-4. Where do they appear in the sentence?
-   - The verb complex tends to contain auxiliary verbs and adverbs in addition to the verb itself
-   - The Noun Phrase tends to contain determiners and adjectives in addition to the noun itself
-   - Prepositions are used before the Noun Phrase.
-5. Super- and sub-types
-   - Types of modifying words: adjectives and adverbs
-   - Types of referring words (nominals): Nouns and Pronouns
+- **Content versus function words**
+
+Content words = Nouns, Verbs, Adjectives, Adverbs (in Speech and Language Therapy, these are sometimes called 'information-carrying words')
+
+Function words = Determiners, Pronouns, Prepositions (and maybe certain types of verbs, we will come to this later)
+
+- **Open versus closed class.**
+
+Open class words permit new members, while closed class words don't. NB all content words are open, and all function words are closed.
+
+Open = Nouns, Verbs, Adjectives, Adverbs
+
+Closed = Determiners, Pronouns, Prepositions.
+
+- **What the words do in the sentence?**
+
+Referring words = Nouns, Pronouns
+
+Modifying words = Adjectives and Adverbs
+
+- **Where do they appear in the sentence?**
+
+The verb complex tends to contain auxiliary verbs and adverbs in addition to the verb itself
+
+The Noun Phrase tends to contain determiners and adjectives in addition to the noun itself
+
+Prepositions are used before the Noun Phrase.
+
+- **Super- and sub-types**
+
+Types of modifying words: adjectives and adverbs
+
+Types of referring words (nominals): Nouns and Pronouns
 
 ## Word classes and language impairment
 
