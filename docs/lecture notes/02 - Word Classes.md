@@ -18,7 +18,7 @@ Working definition is 'Minimal Independent Symbolic Unit' (MISU)
 
 #### Minimal
 
-This means that words cannot be divided into smaller standalone units
+A "minimal" unit is the smallest unsplittable unit.
 
 1. Inactive -> *****One sip of coffee and Charles changes from **in-** to hyper-**active**.
 2. Underconfident -> ?After eight pints, Angela changes from **under-** to over-**confident**. 
