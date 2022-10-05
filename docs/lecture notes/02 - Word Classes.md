@@ -20,10 +20,10 @@ Working definition is 'Minimal Independent Symbolic Unit' (MISU)
 
 A "minimal" unit = we cannot split it into smaller pieces.
 
-1. Inactive -> *****One sip of coffee and Charles changes from **in-** to hyper-**active**.
+1. Inactive -> <span>&#42;</span>One sip of coffee and Charles changes from **in-** to hyper-**active**.
 2. Underconfident -> ?After eight pints, Angela changes from **under-** to over-**confident**. 
 3. Walk out -> She **walked** through the door and **out** of my life.
-4. Blackbird (species) -> *****She saw a **black** and a white **bird** in the tree
+4. Blackbird (species) -> <span>&#42;</span>She saw a **black** and a white **bird** in the tree
 5. Black magic -> ?The witch practises both **black** and white **magic**
 
 #### Independent
