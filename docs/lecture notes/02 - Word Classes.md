@@ -18,7 +18,7 @@ Working definition is 'Minimal Independent Symbolic Unit' (MISU)
 
 #### Minimal
 
-A "minimal" unit is the smallest unsplittable unit.
+A "minimal" unit = we cannot split it into smaller pieces.
 
 1. Inactive -> *****One sip of coffee and Charles changes from **in-** to hyper-**active**.
 2. Underconfident -> ?After eight pints, Angela changes from **under-** to over-**confident**. 
@@ -30,7 +30,7 @@ A "minimal" unit is the smallest unsplittable unit.
 
 This property can be defined in a couple of ways:
 
-(a) Words are interpretable in isolation, e.g.
+(a) Words are interpretable in isolation. They may "stand alone".
 
 1. A: What was he doing? B: Working
 2. B: How would you describe the experience? B: Unbelievable
