@@ -110,6 +110,8 @@ Do you start with complex structures?
 
 Do you start with simple structures and make them complex?
 
+There is little research on this, and opinions vary. A recent paper by van Horne argues that deliberately exposing children to complex input led to better learning (though she was looking at past tense morphology, rather than complex syntax)
+
 ## Bibliography
 
 Kidd, E., Brandt, S., Lieven, E., & Tomasello, M. (2007). Object relatives made easy: A cross-linguistic comparison of the constraints influencing young children’s processing of relative clauses. *Language and Cognitive Processes*, *22*(6), 860–897.
@@ -123,3 +125,5 @@ Nippold, M. A., Mansfield, T. C., \& Billow, J. L. (2007). Peer Conflict Explana
 Nippold, M. A., Mansfield, T. C., Billow, J. L., \& Tomblin, J. B. (2008). Expository discourse in adolescents with language impairments: Examining syntactic development. American Journal of Speech-Language Pathology, 17(4), 356.
 
 Nippold, M. A., \& Scott, C. M. (2010). Expository discourse in children, adolescents, and adults: Development and disorders. Taylor \& Francis US.
+
+Van Horne, A. J. O., Fey, M., & Curran, M. (2017). Do the Hard Things First: A Randomized Controlled Trial Testing the Effects of Exemplar Selection on Generalization Following Therapy for Grammatical Morphology. Journal of Speech Language and Hearing Research, 60(9), 2569. https://doi.org/10.1044/2017_JSLHR-L-17-0001
