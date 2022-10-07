@@ -1,4 +1,6 @@
-#  03 - Lexical Representations
+# How are words stored?
+
+## Data from production errors
 
 Have a look at these errors. How/why have they occured?
 
@@ -11,11 +13,11 @@ These errors are known as 'blends'. Two words are activated, and combined into o
 
 Characteristics: (1) Multiple Semantic Activation: overlapping meanings (2) Phonological processes in selection: similar word-internal phonology.
 
-Process by which blends are formed combines __opportunistic__ activation / assembly with __rigorous__ monitoring
+Process by which blends are formed rapid carefree activation (i.e. resulting in errors) with rigorous monitoring.
 
 What does it tell us about words? They are stored in **semantic and networks** (activation of multiple words with overlapping meanings). There is **activation across domains**: **semantic** activation of multiple competitors, and **phonological** processes involved in blending (the use of a 'pivot'). The system **biases speed over accuracy**, but recovers from error due to a __monitoring system__.
 
-# Meaning-related sense-relationships
+# Meaning-related lexical relationships
 
 ## Hyponymy
 
@@ -23,7 +25,7 @@ What does it tell us about words? They are stored in **semantic and networks** (
 
 Plant > Tree > Sycamore / Plant > Flower > Daisy / Furniture > Chair > Stool
 
-A subset relationship. As you go upwards, __extension__ (potential referents) expands, __intension__ (list of definitional properties) narrows.
+Hyponymy can be characterised by superset/subset relationships. As you go upwards in the hierarchy the __extension__ (i.e. the set of potential referents) expands. For example, there are more things in the set of plants (top of the hierarchy) than the set of trees (middle of the hierarchy). By contrast, as you go upwards in the hierarchy, the __intension__ (list of definitional properties) narrows. For example, furniture = large practical object in the home. Chair = large practical object in the home + you sit on it. Stool = large practical object in the home + you sit on it + it has no backrest.
 
 Tree is a __hyponym / subordinate__ of Plant
 
@@ -105,41 +107,55 @@ Same written form, different spoken forms (with different meanings)
 
 e.g. bow, minute
 
+## The strict definition of homonymy
+
+The definition we have learnt is:
+
+A word with the same form, but two different (but unrelated) meanings.
+
+When I refer to the same form, I am referring to the same spoken AND written form. However, there is a stricter version of homonyms, whereby the word can share EITHER the same spoken or written form. If you adopt this definition, then there is an overlap between homonyms, homophones and homographs.
+
+I have adopted the looser definition because (a) it is the most widely used definition, (b) if you adopt the narrow definition, the situation gets very confusion. If you really wish to see how all of the definitions intersect, then wikipedia has a very good page on this.
+
 # Exploring semantic networks
 
-1. Word association norms
+## Word association norms
 
-   A says a word, and B says the first word that comes into their heads
+A says a word, and B says the first word that comes into their heads
 
-   Coordinates are the most frequent category, e.g. if the prime is *cat*, the participant says *dog*. Next are  collocations (words which tend to co-occur, e.g. *fish and chips*, *cats and dogs*). Then come superordinates, e.g. *cat* primes *pet*, and finally subordinates (*cat* primes *Siamese*).
+Coordinates are the most frequent category, e.g. if the prime is *cat*, the participant says *dog*. Next are  collocations (words which tend to co-occur, e.g. *fish and chips*, *cats and dogs*). Then come superordinates, e.g. *cat* primes *pet*, and finally subordinates (*cat* primes *Siamese*).
 
-   Word association tasks conducted with children with Developmental Language Impairments find tentative evidence for reduced semantic networks, e.g. large number of responses which are very odd, e.g. *Spoon* -> Disney, or based on phonological similarity, e.g. *cow* -> *how* (Sheng & McGregor, 2010)
+Word association tasks conducted with children with Developmental Language Impairments find tentative evidence for reduced semantic networks, e.g. large number of responses which are very odd, e.g. *Spoon* -> Disney, or based on phonological similarity, e.g. *cow* -> *how* (Sheng & McGregor, 2010)
 
-2. Semantic fluency tasks
+## Semantic fluency tasks
 
-   A asks B to say as many words as possible from a single category, e.g. animals, things you take on holidays. When asked to list animals, a typical response might be
+A asks B to say as many words as possible from a single category, e.g. animals, things you take on holidays. When asked to list animals, a typical response might be
 
-   Dog, cat, rabbit -- lion, tiger -- fish, whale, dolphin
+Dog, cat, rabbit -- lion, tiger -- fish, whale, dolphin
 
-   Responses tend to be grouped into clusters, e.g. the above response contains a DOMESTIC ANIMAL cluster, then a WILD ANIMAL cluster, then a SEA MAMMAL cluster.
+Responses tend to be grouped into clusters, e.g. the above response contains a DOMESTIC ANIMAL cluster, then a WILD ANIMAL cluster, then a SEA MAMMAL cluster.
 
-   - Poorer semantic fluency in developmental language disorders and autism (Kail & Leonard, 1986; Bishop & Norbury, 2005). For example, they produce fewer words and clusters
-   - Some have suggested that semantic fluency tasks can be used to predict onset of Alzheimmers: few clusters, cluster members and switches between clusters (Gomez & White, 2006)
+- Poorer semantic fluency in developmental language disorders and autism (Kail & Leonard, 1986; Bishop & Norbury, 2005). For example, they produce fewer words and clusters
+- Some have suggested that semantic fluency tasks can be used to predict onset of Alzheimmers: few clusters, cluster members and switches between clusters (Gomez & White, 2006)
 
-3. Lexical priming task
+## Lexical priming tasks
 
-   e.g. does hearing word X spead up recognition / recall of word Y?
+Does hearing word X spead up recognition / recall of word Y?
 
 # Exploring word production using lexcial speech errors
 
 Types of error:
 
 1. Blend, e.g. *lection*
-2. Phonological substitution (malapropism), e.g. The Chinese emperor had many concubines -> porcupines,  Brexit means Brexit -> breakfast.
+2. Phonological substitution (malapropism), e.g. The Chinese emperor had many concubines -> porcupines,  Brexit means Brexit -> breakfast (there are amusing clips of politicians and newsreaders accidentally calling Brexit "breakfast". Have a look for these you YouTube.
 3. Semantic substitution, e.g. Give me the hammer -> screwdriver.
 4. Tip of the tongue effects = we know the meaning of the word we want, but phonological access is partial
 
-Available evidence suggests 2-stage model: (1) Activation of meaning, (2) Activation of form. The meaning level is called the 'lemma' level. We will revisit this concept in week 10.
+Available evidence suggests 2-stage model: (1) Activation of meaning, (2) Activation of form.
+
+Phonological substitutions happen when the right meaning is activated, but the wrong form is chosen. Tip of the tongue effects are similar. We know the meaning, but in this case we can't activate the right form. In semantic substitution effects we accidentally choose the wrong meaning, and then select the form which corresponds to that meaning.
+
+The meaning level is called the "lemma" level, while the form level is called the "lexeme" level.
 
 # 5-minute Exercise
 
