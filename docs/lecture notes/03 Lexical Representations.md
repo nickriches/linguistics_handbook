@@ -1,6 +1,8 @@
-# How are words stored?
+# 03 Lexical representations
 
-## Data from production errors
+## How are words stored?
+
+### Data from production errors
 
 Have a look at these errors. How/why have they occured?
 
@@ -17,9 +19,9 @@ Process by which blends are formed rapid carefree activation (i.e. resulting in 
 
 What does it tell us about words? They are stored in **semantic and networks** (activation of multiple words with overlapping meanings). There is **activation across domains**: **semantic** activation of multiple competitors, and **phonological** processes involved in blending (the use of a 'pivot'). The system **biases speed over accuracy**, but recovers from error due to a __monitoring system__.
 
-# Meaning-related lexical relationships
+## Meaning-related lexical relationships
 
-## Hyponymy
+### Hyponymy
 
 'Hypo' = under, 'nym' = word
 
@@ -35,7 +37,7 @@ Mid-level categories are (a) more rapidly named, (b) more easily visualised, (c)
 
 Words which exist at the same level are called **co-hyponyms** or **coordinates**, e.g. daisy, begonia, Tulip / flower, bush, tree / chair, sofa, wardrobe. 
 
-## Synonmy
+### Synonmy
 
 'Syn' = together, 'nym' = name/word
 
@@ -45,7 +47,7 @@ Very few genuine synonyms. When words are identical in _denotation_ (event or th
 
 There are very few genuine synonyms, i.e. where denotation and connotation are teh same. Some examples are words differing across dialects or varieties of a language, e.g. _tap / fawcett, pavement / sidewalk_, and some grammatical words, e.g. _however / nonetheless_
 
-## Antonmy
+### Antonmy
 
 'Anto' = opposite, 'nym' = name/word
 
@@ -53,7 +55,7 @@ Words with opposite meanings. Can be gradable (e.g. _slightly hot_, _very cold_)
 
 Sometimes there is no obvious opposite, e.g. the opposite of _virgin_. There is a 'lexical gap'
 
-## Homonymy
+### Homonymy
 
 'Homo' = same, 'nym' = name/word.
 
@@ -63,7 +65,7 @@ May have same root (in which case there is a tenuous meaning relationship), e.g.
 
 Or may have a different root, e.g. _bay_ tree [LATIN baca], the ship entered _the bay_ [OLD FRENCH baie], the dogs _bayed_ [OLD FRENCH abai]. The fact that these words, with different an unrelated meanings, have the same pronunciation is a historical accident.
 
-## Polysemy
+### Polysemy
 
 'Poly' = multiple, 'sem' = meaning.
 
@@ -82,7 +84,7 @@ Are meaning relationships systematic or random? According to Charles Fillmore (e
 
 Both describe words with same form, but different meanings. The only difference is whether the meaning relationship is **mentally represented**. Moreover, according to Fillmore's approach meaning relationships among polysemous words are *structure / systematic.* The only way to test this is via personal intuition.
 
-# Lexical gaps
+## Lexical gaps
 
 A language lacks a word where there should be one. Easily demonstrated with antonyms
 
@@ -93,21 +95,21 @@ Many English kinship terms are vague, e.g. English _cousin_ can be used for a va
 
 Loan words, e.g. _kitsch_ & _schadenfreude_, are used to fill lexical gaps. A recent load word is _hygge_.
 
-# Form-related relationships
+## Form-related relationships
 
-## Homophony
+### Homophony
 
 Same spoken form, different written forms (with different meanings)
 
 e.g. might / mite, leak / leek
 
-## Homography
+### Homography
 
 Same written form, different spoken forms (with different meanings)
 
 e.g. bow, minute
 
-## The strict definition of homonymy
+### The strict definition of homonymy
 
 The definition we have learnt is:
 
@@ -115,11 +117,11 @@ A word with the same form, but two different (but unrelated) meanings.
 
 When I refer to the same form, I am referring to the same spoken AND written form. However, there is a stricter version of homonyms, whereby the word can share EITHER the same spoken or written form. If you adopt this definition, then there is an overlap between homonyms, homophones and homographs.
 
-I have adopted the looser definition because (a) it is the most widely used definition, (b) if you adopt the narrow definition, the situation gets very confusion. If you really wish to see how all of the definitions intersect, then wikipedia has a very good page on this.
+I have adopted the looser definition because (a) it is the most widely used definition, (b) if you adopt the narrow definition, the situation gets very confusing. If you really wish to see how all of the definitions intersect, then wikipedia has a very good page on this.
 
-# Exploring semantic networks
+## Exploring semantic networks
 
-## Word association norms
+### Word association norms
 
 A says a word, and B says the first word that comes into their heads
 
@@ -127,7 +129,7 @@ Coordinates are the most frequent category, e.g. if the prime is *cat*, the part
 
 Word association tasks conducted with children with Developmental Language Impairments find tentative evidence for reduced semantic networks, e.g. large number of responses which are very odd, e.g. *Spoon* -> Disney, or based on phonological similarity, e.g. *cow* -> *how* (Sheng & McGregor, 2010)
 
-## Semantic fluency tasks
+### Semantic fluency tasks
 
 A asks B to say as many words as possible from a single category, e.g. animals, things you take on holidays. When asked to list animals, a typical response might be
 
@@ -138,11 +140,11 @@ Responses tend to be grouped into clusters, e.g. the above response contains a D
 - Poorer semantic fluency in developmental language disorders and autism (Kail & Leonard, 1986; Bishop & Norbury, 2005). For example, they produce fewer words and clusters
 - Some have suggested that semantic fluency tasks can be used to predict onset of Alzheimmers: few clusters, cluster members and switches between clusters (Gomez & White, 2006)
 
-## Lexical priming tasks
+### Lexical priming tasks
 
 Does hearing word X spead up recognition / recall of word Y?
 
-# Exploring word production using lexcial speech errors
+## Exploring word production using lexcial speech errors
 
 Types of error:
 
@@ -157,7 +159,7 @@ Phonological substitutions happen when the right meaning is activated, but the w
 
 The meaning level is called the "lemma" level, while the form level is called the "lexeme" level.
 
-# 5-minute Exercise
+## 5-minute Exercise
 
 How many 'units of meaning' in the following words:
 
