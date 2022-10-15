@@ -1,4 +1,4 @@
-# Words and morphemes
+# 04 - Words and morphemes
 
 ## Relevance of words and morphemes
 
@@ -21,7 +21,7 @@ Words can stand alone, e.g.
 3. Shark!!!!!!!!
 4. Run!!!!!!!!!
 
-### MORPHEME = minimal <del>independent</del>> symbolic unit (or smallest <del>standalone</del> unit of meaning)
+### MORPHEME = minimal <del>independent</del> symbolic unit (or smallest <del>standalone</del> unit of meaning)
 
 i.e. like the definition of a word but we have removed the requirement to be independent / stand alone.
 
