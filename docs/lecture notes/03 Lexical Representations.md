@@ -1,4 +1,4 @@
-# 03 Lexical representations
+# 03 - Lexical representations
 
 ## How are words stored?
 

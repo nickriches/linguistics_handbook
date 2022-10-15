@@ -1,4 +1,6 @@
-# Relevance of words and morphemes
+# Words and morphemes
+
+## Relevance of words and morphemes
 
 Words and morphemes are the building blocks of sentences
 
@@ -6,7 +8,7 @@ In order to analyse sentence structure we need to know about words and morphemes
 
 Language-impaired individuals, in particular children, tend to have morphological difficulties
 
-# Definitions
+## Definitions
 
 Both words and morphemes are 'symbolic', meaning that there is an _arbitrary_ relationship between form and function.
 
@@ -35,7 +37,7 @@ How many 'units of meaning' in the following words:
 
 The key thing to note is that there is an overlap in the definition of words and morphemes. Therefore some words are also morphemes! For example, *dog* is a word and a morpheme. We say that this is a **morphologically simple** word. However, words often contain more than one morpheme, e.g. *dog-s*. This is a **morphologically complex** word, i.e. a word consisting of more than one morpheme.
 
-# Categorising morphemes
+## Categorising morphemes
 
 Morphemes can be **free** or **bound**. If a morpheme is *free* it can also be classified as a word (because it can 'stand alone'). In the following sentence, we have examples of both *free* and *bound* closed-class morphemes
 
@@ -47,7 +49,7 @@ Morphemes are divided into two categories, **_inflectional_** and **_derivationa
 
 Words containing multiple morphemes are described as **morphologically complex**. 
 
-# The difference between inflectional and derivational morphemes
+## The difference between inflectional and derivational morphemes
 
 (1) Inflectional morphemes are often **affected by sentence position**. For example, we use a special ending on the verb when the subject is 3rd person singular. We don't use that ending if the subject does not have these poperties, e.g.
 
@@ -81,7 +83,7 @@ The regular tense ending is pronouncd /t/ /d/ or /Id/ depending on the form of t
 
 Other differences between derivational and inflectional morphemes: (1) Derivational morphemes are longer (2) Derivational morphemes have more specific meanings, e.g. *out* in *outmaneouvre* means "to do something better than a competitor" (3) Derivational morphemes are more language-specific, e.g. *out-* prefix is not found in Spanish, and *-ito/-illo* diminutive suffixes are not used productively in English. 
 
-# Word-building processes
+## Word-building processes
 
 There are three ways to form morphologically complex words using morphological processes
 
@@ -99,7 +101,7 @@ When we build morphologically-complex words, we tend follow a particular order
 
 This gives the impression that we build up the words in **a series of steps**.
 
-# Morphemes and language impairment
+## Morphemes and language impairment
 
 Individuals with language impairment struggle with inflectional morphemes. In particular, children with Developmental Language Disorder (DLD) often miss out tense morphemes, e.g. **regular past tense**. For example, they might say *I laugh at the joke* instead of *I laughed at the joke*
 
@@ -109,18 +111,16 @@ Many studies quantify children's language abilities using the Mean Length of Utt
 
 Language-impaired individuals tend to have difficulties using derivational morphemes. It is worthwhile teaching these morphemes in clinic as they can be used to build words.
 
-# Novel morphemes
+## Novel morphemes
 
-This is not essential knowledge for speech and language therapists, but if you find linguistics intriguing and fun, you might wish to read on...
+This is not essential knowledge for speech and language therapists, and is not an obligatory exam topic, but if you find linguistics intriguing and fun, you might wish to read on...
 
 Inflectional morphemes are generally viewed as a closed class. However, every now and then a new derivational morpheme comes along. A classic example is the *-gate* morpheme which is used to designate a government scandal, e.g. *watergate*, *partygate*, *iraqgate*, *camillagate* etc. Here are a couple more examples
 
 1. *-core* suffix as an *cottage* core. Its first usage was in the term ***hardcore*** to describe a <u>material for road suracing</u>. *Core* had a literal meaning to describe the material underneath the tarmac. Then it was used to describe very aggressive punk music, characterised by a very dedicated and fanatical fanbase. Then the term ***emocore*** came along. *Emo* refers to <u>a genre of rock music which is associated with certain types of emotion, e.g. sadness, sensitivity and introspection</u>, and the *-core* suffix took on the meaning of having a dedicated and fanatical fanbase. However, this is arguably ironic, as *emocore* fans were relatively passive compared to their punk counterparts. After this, *-core* became used as a general term to denote <u>an artistic movement</u>, first, ***mumblecore*** (<u>films from the early nineties following the lives of intelligent, arty and nihilistic twenty-year olds</u>, and usually starring Greta Gerwig), and now ***cottagecore***, i.e. <u>genre of fashion characterised by wearing old-fashioned floral countrified clothes</u>. The *core* example is interesting as it shows how a literal meaning (foundation for a road) turned into a figurative meaning (dedication to an artistic movement), which then morphed over time, and became gradually more ironic.
 2. -*tifa* morpheme. This comes from the word ***antifa*** used to describe anti-fascist protesters. During recent civil unrest in the US, partly in response to the George Floyd killing, the word **grantifa** was used to describe protesters who were elderly women. In this case, the word **-tifa** has begun to function as a morpheme with the meaning "group of protestors"
 
-
-
-# 5 minute exercise
+## 5 minute exercise
 
 Look at these examples. What does the suffix 'mouth' mean? How do you pronounce it in each word?
 
