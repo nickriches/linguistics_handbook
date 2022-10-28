@@ -24,26 +24,15 @@ These propose two systems involved in morphological storage / processing:
 
 ### Evidence for a computational system
 
-1. We can use morphemes *productively*
+1. We can use morphemes *productively*<br>He merengu**ed** his way onto the dance floor<br>She was so angry that she crutch**ed** her boyfriend<br>There are two wug**s**<br>Look! The dog is meek**ing**<br>The dog was **un**meek**able**
 
-   1. He merengu**ed** his way onto the dance floor
-   2. She was so angry that she crutch**ed** her boyfriend
-   3. There are two wug**s**
-   4. Look! The dog is meek**ing**
-   5. The dog was **un**meek**able**
-2. *Morphological movement, stranding and substitution errors* indicate separate storage of inflectional / derivational morphemes
-   1. She wash upp**ed** the dishes.
-   3. We have a lot of church**es** in our minister
-   4. She always pack**s** a keep
+2. *Morphological movement, stranding and substitution errors* indicate separate storage of inflectional / derivational morphemes<br>She wash upp**ed** the dishes.<br>We have a lot of church**es** in our minister<br>She always pack**s** a keep
 3. Evidence that we process sounds which are potentially morphemes as morphemes (*morpho-phonological parsing* - Post et al. 2008). For example reaction times indicate that we parse pseudo-inflections, e.g. *mil**d*** (potentially past tense of the verb *to mile*) as actual inflections. This results in longer reaction times in a task where participants need to determine whether two words, e.g. *mile* and *mild* are the same or different.
 4. Words with regular inflectional affixes tend to be phonotactically irregular (e.g. irregular *lost* rhymes with *frost*, but regular *turned* does not rhyme with any other monomorphemic word). This suggests they are not stored, as phonotactic regularity is assumed to be a characteristic of the lexicon.
 
 ### Evidence of the whole-word storage of morphologically-complex words
 
-1. Some complex forms contain *non-word roots*, indicating that they haven't been built up compositionally, e.g.
-   1. Un<u>remitt</u>ingly
-   2. It's in<u>evit</u>able
-   3. The food supplies were de<u>plete</u>d
+1. Some complex forms contain *non-word roots*, indicating that they haven't been built up compositionally, e.g.<br>Un<u>remitt</u>ingly<br>It's in<u>evit</u>able<br>The food supplies were de<u>plete</u>d
 2. Some morphemes have multiple meanings, e.g. *-er* = AGENT, e.g. *gardener*, or INSTRUMENT, e.g. paint *stripper*. Specific roots bias the suffix towards one meaning or another, e.g. with *gardener* AGENT interpretation is much more likely than INSTRUMENT interpretation. Given this, it is likely that we access root + affix as a whole. If words were built up compositionally, how do we know which meaning of *-er* to select?
 3. Psycholinguistic evidence indicates that some morphologically-complex forms are stored as wholes, e.g. Loscewicz (1995) found that inflections in high-frequency inflected forms were significantly shorter than in low-frequency inflected forms. She therefore concluded that high-frequency forms were stored as a whole. Alegre and Gordon (1999) found a relationship between whole-word frequency and performance on a nonword discrimination task when whole-word frequency exceeded 1 per 7 million. Again, this suggests that high frequency morphologically complex forms may be stored as wholes.
 
@@ -83,16 +72,9 @@ The two systems **compete** with each other under time pressure. If an irregular
 
 Evidence:
 
-1. Frequency effects are only found in the irregular system only
-   1. Children's overregularisation errors, e.g. *she swammed* are determined by the density of the irregular neighbourhood which the irregular root belongs to.
-   2. Adult generation of inflected form is affected by input frequency only in the irregular system.
-2. Difficulties with regular forms are linked to impaired procedural memory
-   1. Children with Developmental Language Disorder
-   2. Adults with Parkinsons
-   3. Adults with Broca's-type aphasia
-3. Difficulties with irregular forms are linked to impaired declarative memory
-   1. Adults with Anomia
-   2. Adults with Wernicke's type aphasia
+1. Frequency effects are only found in the irregular system only<br>Children's overregularisation errors, e.g. *she swammed* are determined by the density of the irregular neighbourhood which the irregular root belongs to.<br>Adult generation of inflected form is affected by input frequency only in the irregular system.
+2. Difficulties with regular forms are linked to impaired procedural memory:<br>Children with Developmental Language Disorder<br>Adults with Parkinsons<br>Adults with Broca's-type aphasia
+3. Difficulties with irregular forms are linked to impaired declarative memory<br>Adults with Anomia<br>Adults with Wernicke's type aphasia
 
 ### Criticism of the dual route model
 
