@@ -38,19 +38,19 @@ First three are most reliable.
 
    A phrase can be replaced with 'placeholder' expression (e.g. a pronoun)
 
-   (a) [Elliot $_{NOUN~PHRASE}$] loved [the cute green alien $_{NOUN~PHRASE}$] -> [He] loved [it]
+   (a) [Elliot <sub>NOUN PHRASE</sub>] loved [the cute green alien <sub>NOUN PHRASE</sub>] -> [He] loved [it]
 
-   (b) Elliot [hugged the cute green alien $_{VERB~PHRASE}$] and Gertie [did so $_{VERB~PHRASE}$] too (and [so did $_{VERB~PHRASE}$] Gertie)
+   (b) Elliot [hugged the cute green alien <sub>VERB PHRASE</sub>] and Gertie [did so <sub>VERB PHRASE</sub>] too (and [so did <sub>VERB PHRASE</sub>] Gertie)
 
 2. **Question test**
 
    A phrase can be questioned
 
-   (a) Who did Elliot love? [ The cute green alien $_{NOUN PHRASE}$]
+   (a) Who did Elliot love? [ The cute green alien <sub>NOUN PHRASE</sub>]
 
-   (b) Where did Elliot find ET? [ In the toolshed $_{PREPOSITIONAL~PHRASE}$ ]
+   (b) Where did Elliot find ET? [ In the toolshed <sub>PREPOSITIONAL PHRASE</sub> ]
 
-   (c) What is Elliot doing? [Hugging the cute green alien $_{VERB~PHRASE}$]
+   (c) What is Elliot doing? [Hugging the cute green alien <sub> VERB PHRASE </sub>]
 
 3. **Standalone test**
 
@@ -60,9 +60,9 @@ First three are most reliable.
 
    Phrases may be coordinated, i.e. they may be produced in a series linked by a coordinator (_and_, _but_, _or_) e.g.
 
-   (a) [Elliot **and** Gertie $_{NOUN~PHRASE}$] loved [the cute green alien **and** the soft brown Teddy $_{NOUN~PHRASE}$]
+   (a) [Elliot **and** Gertie <sub>NOUN PHRASE</sub>] loved [the cute green alien **and** the soft brown Teddy <sub>NOUN PHRASE</sub>]
 
-   (b) Elliot [hugged the cute green alien **and** cuddled the soft brown Teddy $_{VERB~PHRASE}$]
+   (b) Elliot [hugged the cute green alien **and** cuddled the soft brown Teddy <sub>VERB PHRASE</sub>]
 
 5. **Movement test**
 
@@ -112,15 +112,15 @@ The sentence sounds odd if we insert a pause within a phrase, e.g.
 
 According to the coordination test, replacement test, and the movement test, the verb is part of a bigger phrase consistent of the verb and following Noun Phrases, e.g.
 
-1. Patrick [loved the fish **but** hated the chips $_{VERB~PHRASE}$]
-2. Mary [loved the mousse $_{VERB~PHRASE}$], and Shania [did so $_{VERB~PHRASE}$] too.
-3. [Mourn them $_{VERB~PHRASE}$] do not _ . [Miss them $_{VERB~PHRASE}$] do not _ . Attachment leads to Jealousy.
+1. Patrick [loved the fish **but** hated the chips <sub>VERB PHRASE</sub>]
+2. Mary [loved the mousse <sub>VERB PHRASE</sub>], and Shania [did so <sub>VERB PHRASE</sub>] too.
+3. [Mourn them <sub>VERB PHRASE</sub>] do not _ . [Miss them <sub>VERB PHRASE</sub>] do not _ . Attachment leads to Jealousy.
 
-Notice that auxiliary verbs (and negative particles) are not part of the Noun Phrase (*[Mourn them $_{VP}$] **do** not, [Eaten them $_{VP}$] she **has** _* ).
+Notice that auxiliary verbs (and negative particles) are not part of the Noun Phrase (*[Mourn them <sub>VERB PHRASE</sub>] **do** not, [Eaten them <sub>VERB PHRASE</sub>] she **has** _* ).
 
 But the Noun Phrases which come after the verb are also phrases. Therefore we have **phrases inside phrases!**
 
-1. Patrick [ loved [ the fish $_{NOUN~PHRASE}$] $_{VERB~PHRASE}$ ]
+1. Patrick [ loved [ the fish <sub>NOUN PHRASE</sub>] <sub>VERB PHRASE</sub> ]
 
 This hierarchical structure (phrases-inside-phrases) is often expressed using syntactic trees (see lecture example)
 
