@@ -1,4 +1,4 @@
-# 06 - The semantics of events
+# 07 - The semantics of events
 
 ## Tense
 

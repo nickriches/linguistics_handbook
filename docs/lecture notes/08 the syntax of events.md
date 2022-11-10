@@ -1,4 +1,4 @@
-# 07 - The syntax of events
+# 08 - The syntax of events
 
 # Finite and non-finite forms
 
