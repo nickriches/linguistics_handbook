@@ -127,16 +127,3 @@ This hierarchical structure (phrases-inside-phrases) is often expressed using sy
 **BE WARNED THAT DIFFERENT RESEARCH FIELDS USE THE TERM "VERB PHRASE" DIFFERENTLY**
 
 Many clinicians and speech and language scientists use the term "Verb Phrase" to refer to the Verb and all associated words, e.g. *Mary **is greedily eating** the food*. This is also the definition which David Crystal uses. However, we will be using the definition preferred by linguists: the main verb and following Noun Phrases. This is because this unit meets the tests for phrasehood described above.
-
-# 5 minute exercise
-
-Try to learn the following artificial language
-
-1. Gugo bikavit lamnok = 'The cat chased the dog'
-2. Lopo bikavit tunglish = 'The cat ate the food'
-3. Lopo gugo lamnok = 'The dog likes the food'
-
-What does the following sentence mean?
-
-1. Bikavit gugo tunglish
-

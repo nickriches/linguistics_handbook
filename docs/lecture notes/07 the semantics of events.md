@@ -63,7 +63,7 @@ For a verb to work in zoetrope it needs (a) 'internal structure' (b) no definite
 
 We can see that certain verbs have particular temporal properties. These properties are referred to as "lexical aspect" (sometimes called "aktionsarten")
 
-#### ### (a) States versus non-states
+###  (a) States versus non-states
 
 States are abstract, and do not have "internal structure" (e.g. "existing" doesnt' vary in any way across time, while when you are running, different snapshots will show your arms and legs in completely different positions). Non-states have internal structure.
 
