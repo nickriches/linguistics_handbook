@@ -64,11 +64,11 @@ When combining tense and aspect we
 
 Aspect expresses the PERSPECTIVE. Tense expresses the VIEWPOINT (past / present / future), e.g.
 
-1. She has$_{PRES.~TENSE}$ eaten$_{PERF.~ASP}$ the food
+1. She has<sub>PRES. TENSE</sub> eaten<sub>PERF. ASP</sub> the food
 
 Perfective Aspect signals an EXTERNAL PERSPECTIVE on the event (the event is completed). Past tense shows that we adopt a PRESENT VIEWPOINT on the event. This is the "Present Perfect" and it is used when when a completed event has relevance for the present, e.g. *I have eaten the food, and therefore I am full*
 
-2. We 'll be$_{FUT.~TENSE}$ eating$_{PROG.~ASPECT}$ dinner when you arrive
+2. We 'll be<sub>FUT. TENSE</sub> eating<sub>PROG. ASPECT</sub> dinner when you arrive
 
 Progressive Aspect signals an INTERNAL PERSPECTIVE on the event (it is ongoing). Future tense shows that we adopt a FUTURE VIEWPOINT. This is the "Future Progressive" and it is used to describe an ongoing future event.
 
