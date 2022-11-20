@@ -26,18 +26,11 @@ These forms for expressing the future <u>are generally not described as tenses</
 
 For example....
 
-1. "will" is used for OFFERS and PREDICTIONS
-   1. I'll help you with that bag
-   2. I think it will rain tomorrow
-2. "going to" is used to talk about the FUTURE BASED ON CURRENT EVIDENCE, or PLANS
-   1. I think I'm going to be sick (because I feel nauseous)
-   2. I'm going to apply for a Speech and Language Therapy course
-3. PRESENT TENSE is used for a TIMETABLED FUTURE
-   1. The train leaves at 6.15
-4. PRESENT PROGRESSIVE is used for a FUTURE ARRANGEMENT
-   1. I'm studying Speech and Language Therapy next year (I already have a place on a course)
-5. "be about to" is for the NEAR FUTURE
-   1. The players are warming up. The match is about to begin.
+1. "will" is used for OFFERS and PREDICTIONS<br>e.g. I'll help you with that bag, I think it will rain tomorrow
+2. "going to" is used to talk about the FUTURE BASED ON CURRENT EVIDENCE, or PLANS<br>e.g. I think I'm going to be sick (because I feel nauseous), I'm going to apply for a Speech and Language Therapy course
+3. PRESENT TENSE is used for a TIMETABLED FUTURE, e.g.<br>e.g. The train leaves at 6.15
+4. PRESENT PROGRESSIVE is used for a FUTURE ARRANGEMENT<br>e.g. I'm studying Speech and Language Therapy next year (I already have a place on a course)
+5. "be about to" is for the NEAR FUTURE<br>e.g. The players are warming up. The match is about to begin.
 
 Because future forms in English are not strictly tenses, we are going to refer to the "future tense" in inverted commas.
 
@@ -47,7 +40,7 @@ Next week, we're going to be looking at the syntax/morphology of tense in more d
 
 ### Inherent temporal properties of events
 
-Zoetrope - a victorian parlour toy designed to create a moving image (http://www.youtube.com/watch?v=-hE_fA9M580&t=1m18s)
+Zoetrope - a victorian parlour toy designed to create a moving image [](https://www.youtube.com/watch?v=-hE_fA9M580&t=1m18s)
 
 Which of the following verbs would make a good zoetrope?
 
@@ -81,9 +74,9 @@ Activities do not have a natural end point (they are "atelic"). Events have a na
 
 Examples of activities are *run, walk, wash, work*. Examples of events are *break, collapse, crash, fall*
 
-Because activities do not have a natural endpoint, they sound good when used with time expressions which imply an incomplete activity e.g. *I've been walking <u>for an hour</u> (and I may continue to walk for another hour).* By contrast events sound odd when used with such time expressions, e.g ${*}$ *It collapsed <u>for an hour.</u>*
+Because activities do not have a natural endpoint, they sound good when used with time expressions which imply an incomplete activity e.g. *I've been walking <u>for an hour</u> (and I may continue to walk for another hour).* By contrast events sound odd when used with such time expressions, e.g ***** *It collapsed <u>for an hour.</u>*
 
-Events sound good with time expressions which imply a complete activity, e.g. *The bridge collapsed <u>in five seconds</u>*. Activities do not sound good with such time expressions, e.g. ${*}$ *He walked in five minutes*
+Events sound good with time expressions which imply a complete activity, e.g. *The bridge collapsed <u>in five seconds</u>*. Activities do not sound good with such time expressions, e.g. ***** *He walked <u>in five minutes</u>*
 
 ### (c) Accomplishments versus achievements
 
@@ -211,12 +204,22 @@ Children with SLI have difficulties marking tense, e.g.
 
 However, this is a difficulty with the morphological expression of tense, rather than a difficulty understanding what tense means.
 
-Young children, when acquiring tense, **conflate tense and aspect**. They are more likely to mark paste tense on Achievement and Accomplishment verbs, because these tend to describe COMPLETED events. Some studies have argued that by manipulating the lexical aspect of verbs you can help children acquire tense (Van Horne, A. J. O., Fey, M., & Curran, M. (2017). Do the Hard Things First: A Randomized Controlled Trial Testing the Effects of Exemplar Selection on Generalization Following Therapy for Grammatical Morphology. *Journal of Speech Language and Hearing Research*, *60*(9), 2569; Johnson, B. W., & Morris, S. R. (2007). Clinical implications of the effects of lexical aspect and phonology on children’s production of the regular past tense. *Child Language Teaching and Therapy*, *23*(3), 287–306.) In fact, Van Horne et al. found that children with DLD were better at producing the past tense forms when trained on more difficult items!
+Young children, when acquiring tense, **conflate tense and aspect**. They are more likely to mark paste tense on Achievement and Accomplishment verbs, because these tend to describe COMPLETED events. Some studies have argued that by manipulating the lexical aspect of verbs you can help children acquire tense (Van Horne et al., 2017; Johson & Morris, 2007). In fact, Van Horne et al. found that children with DLD were better at producing the past tense forms when trained on more difficult items!
 
-Some studies have found that language-impaired children have difficulties comprehending and producing grammatical aspect (Fletcher, P., Leonard, L. B., Stokes, S. F., & Wong, A. M. Y. (2005). The expression of aspect in Cantonese-speaking children with Specific Language Impairment. *Journal of Speech Language and Hearing Research*, *48*(3); Leonard, L. B., Deevy, P., Kurtz, R., Krantz Chorev, L., Owen, A., Polite, E., … Finneran, D. (2007). Lexical aspect and the use of verb morphology by children with specific language impairment. *Journal of Speech, Language, and Hearing Research*, *50*(3), 759.)
+Some studies have found that language-impaired children have difficulties comprehending and producing grammatical aspect (Fletcher et al. 2005; Leonard et al. 2007)
 
 ## Homework
 
 What is unusual about the following sentence?
 
 "Here be dragons"
+
+## Bibliography
+
+Fletcher, P., Leonard, L. B., Stokes, S. F., & Wong, A. M. Y. (2005). The expression of aspect in Cantonese-speaking children with Specific Language Impairment. *Journal of Speech Language and Hearing Research*, *48*(3)
+
+Johnson, B. W., & Morris, S. R. (2007). Clinical implications of the effects of lexical aspect and phonology on children’s production of the regular past tense. *Child Language Teaching and Therapy*, *23*(3), 287–306.
+
+Leonard, L. B., Deevy, P., Kurtz, R., Krantz Chorev, L., Owen, A., Polite, E., … Finneran, D. (2007). Lexical aspect and the use of verb morphology by children with specific language impairment. *Journal of Speech, Language, and Hearing Research*, *50*(3), 759.
+
+Van Horne, A. J. O., Fey, M., & Curran, M. (2017). Do the Hard Things First: A Randomized Controlled Trial Testing the Effects of Exemplar Selection on Generalization Following Therapy for Grammatical Morphology. *Journal of Speech Language and Hearing Research*, *60*(9), 2569
