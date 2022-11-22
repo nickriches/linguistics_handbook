@@ -179,9 +179,17 @@ This sentence is in the PAST TENSE but uses progressive aspect to describe an ON
 
 ## Combinations of tense, grammatical and lexical aspect
 
+### "Alignment"
+
+Certain lexical and grammatical aspects "align", i.e. a verb with a certain lexical aspect is more likely to be used with a particular grammatical aspect. For example, I=if a verb has no natural end point (e.g. an activity verb), we are more likely to use it with progressive grammatical aspect, e.g. *the horse is running*. If a verb has a natural endpoint (e.g. an accomplishment or achievement verb) we are more likely to use it with perfective aspect, e.g. *he has just jumped off the roof*, *she has reached the top of the mountain*.
+
+In addition there is "alignment" between lexical aspect and tense. For example, if a verb has a natural endpoint (accomplishment / achievement verb) it is more likely to be used with past tense, which also implies completion, e.g. *she jumped off the wall, the lightbulb flashed.*
+
+### "Weird and wonderful" combinations of tense and aspect
+
 Tense, grammatical and lexical aspect combine in weird and wonderful ways. This is a very complex system and we can only begin to scrape the surface.
 
-### (a) Present tense and Activity/Accomplishment/Achievement verbs
+#### (a) Present tense and Activity/Accomplishment/Achievement verbs
 
 When present tense is used with Activities, Accomplishments and Achievements, we get a HABITUAL intepretation, e.g.
 
@@ -189,7 +197,7 @@ When present tense is used with Activities, Accomplishments and Achievements, we
 2. He works in a call centre
 3. He smashes things (he's clumsy or aggressive)
 
-### (b) Progressive grammatical aspect and achievement verbs
+#### (b) Progressive grammatical aspect and achievement verbs
 
 This conveys an iterative interpretation (repeated events)
 
@@ -204,7 +212,7 @@ Children with SLI have difficulties marking tense, e.g.
 
 However, this is a difficulty with the morphological expression of tense, rather than a difficulty understanding what tense means.
 
-Young children, when acquiring tense, **conflate tense and aspect**. They are more likely to mark paste tense on Achievement and Accomplishment verbs, because these tend to describe COMPLETED events. Some studies have argued that by manipulating the lexical aspect of verbs you can help children acquire tense (Van Horne et al., 2017; Johson & Morris, 2007). In fact, Van Horne et al. found that children with DLD were better at producing the past tense forms when trained on more difficult items!
+Young children, when acquiring tense, **conflate tense and aspect**. They are more likely to mark paste tense on Achievement and Accomplishment verbs, because these tend to describe COMPLETED events. This is sometimes referred to as "the aspect hypothesis". Some studies have argued that by manipulating the lexical aspect of verbs you can help children acquire tense (Van Horne et al., 2017; Johson & Morris, 2007). In fact, Van Horne et al. found that children with DLD were better at producing the past tense forms when trained on **more difficult items**, i.e. those where there is a <u>mismatch</u> between tense and aspect. For example *hum* is an activity verb, so tends to be used with progressive grammatical aspect (*she is humming*) and is rarely produced in the past tense (e.g. *she hummed*). Elicit mismatch verbs such as *hummed* seems to help children to learn to produce the past tense.
 
 Some studies have found that language-impaired children have difficulties comprehending and producing grammatical aspect (Fletcher et al. 2005; Leonard et al. 2007)
 
