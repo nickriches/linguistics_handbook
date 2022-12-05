@@ -4,10 +4,10 @@
 
 ### Behaviour of phrases in different positions
 
-1. [ The smelly brown dog $_{NP}$] chased the scrawny grey cat
-2. The scrawny grey cat chased [ the smelly brown dog $_{NP}$]
-3. The woman hit the man [ with a French stick $_{PP}$]
-4. The woman [ with a French stick $_{PP}$] with a French stick left the bakery
+1. [ The smelly brown dog <sub>NP</sub>] chased the scrawny grey cat
+2. The scrawny grey cat chased [ the smelly brown dog <sub>NP</sub>]
+3. The woman hit the man [ with a French stick <sub>PP</sub>]
+4. The woman [ with a French stick <sub>PP</sub>] with a French stick left the bakery
 
 We need to explain how different phrases in different positions have different roles within the sentence
 
@@ -37,9 +37,9 @@ You figured out that particular positions in the sentences had particular FUNCTI
 
 Almost all sentences of English needs a **Subject** and a **Verb**
 
-1. [ Syntax $_{SUBJECT}$ ] **rocks!** $_{VERB}$
-2. [ Madonna $_{SUBJECT}$ ] **sings**  $_{VERB}$
-3. [ That donkey $_{SUBJECT}$ ] **kicks!**  $_{VERB}$
+1. [ Syntax <sub>SUBJECT</sub> ] **rocks!** <sub>VERB</sub>
+2. [ Madonna <sub>SUBJECT</sub> ] **sings**  <sub>VERB</sub>
+3. [ That donkey <sub>SUBJECT</sub> ] **kicks!**  <sub>VERB</sub>
 
 The Subject is often the do-er, e.g. *Madonna* is the person who sings, and *the donkey* is the thing that kicks. However, in the following sentence
 
@@ -63,9 +63,9 @@ We can see that the English paradigm is very sparse. However, other languages ha
 
 After the verb, we often (but not always) have an Object
 
-1. Syntax rocks [ **my world!** $_{OBJECT}$ ]
-2. Madonna sings [ **catchy tunes** $_{OBJECT}$ ]
-3. That donkey kicks [ **people** $_{OBJECT}$ ]
+1. Syntax rocks [ **my world!** <sub>OBJECT</sub> ]
+2. Madonna sings [ **catchy tunes** <sub>OBJECT</sub> ]
+3. That donkey kicks [ **people** <sub>OBJECT</sub> ]
 
 These are "chosen" by the verb in the sense that only certain verbs can take objects. For example, after the verbs *yawn* and *run* we typically do not have objects, e.g.
 
@@ -84,9 +84,9 @@ Some verbs take two objects, in which case we have a **direct** and an **indirec
 
 Note that the Indirect Object is "parasitic" on the Direct Object in the sense that it needs a Direct Object in order to be realised;
 
-1. Janet gave [ a book $_{Direct~Object}$]
-2. Janet gave [ a book $_{Direct~Object}$]. [ to Mary $_{Indirect~Object}$ ]
-3. ?? Janet gave [ to Mary $_{Indirect~Object}$ ]
+1. Janet gave [ a book <sub>DIRECT OBJECT</sub>]
+2. Janet gave [ a book $_{Direct~Object}$]. [ to Mary <sub>DIRECT OBJECT</sub> ]
+3. ?? Janet gave [ to Mary <sub>DIRECT OBJECT</sub> ]
 
 For the following sentences, which are the direct and indirect objects?
 
@@ -155,7 +155,7 @@ An adverbial is a phrase (consisting of either a single word, or a group of word
 
 Though *luckily* in the following sentence has precisely the same function as the Adverbial *with a bit of luck* it is not peripheral, and therefore we are not categorising it as an adverbial. It is a adverb coming inside the Verb Complex.
 
-1. We [ *luckily* had $_{VERB~COMPLEX}$] good weather
+1. We [ *luckily* had <sub>VERB COMPLEX</sub> ] good weather
 
 While Adverbials modify the verb, or sentence, Postmodifiers modify the Noun. They come **after** the noun, e.g.
 
