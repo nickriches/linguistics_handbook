@@ -88,7 +88,7 @@ How do we determine **essential** participants? Those which are obligatory? We c
 
 But most arguments can be rendered optional in certain contexts
 
-1. She give $[$ money $]$ to charity
+1. She give [ money ] to charity
 2. They all gave presents to Mary. Paul gave a pen (to Mary), Jenny gave a book (to Mary), and Brad gave a watch (to Mary)
 3. COOKING INSTRUCTIONS: Chop (the carrots) and stir (them) into the sauce
 
@@ -96,17 +96,17 @@ So obligatoriness will only get you so far!
 
 In addition, some verbs seem to elicit a wide variety of arguments
 
-1. $[$ He $]$ paints $[$ walls $]$
-2. $[$ He $]$ painted $[$ the wall $]$ $[$ red $]$
-3. $[$ He $]$ painted $[$ the wall $]$ $[$ red $]$ $[$ with a paintbrush $]$ and $[$ some paint $]$
-4. $[$ This brush $]$ paints well
+1. [ He ] paints [ walls ]
+2. [ He ] painted [ the wall ] [ red ]
+3. [ He ] painted [ the wall ] [ red ] [ with a paintbrush ] and [ some paint ]
+4. [ This brush ] paints well
 
 There are many potential arguments. Which ones are essential?
 
 Finally sometimes verbs can take "extra-valent" arguments which sound "added on"
 
-1. She swam $[$ ten lengths $]$
-2. They laughed $[$ the teacher $]$  $[$ out of the room $]$
+1. She swam [ ten lengths ]
+2. They laughed [ the teacher ]  [ out of the room ]
 
 There is no foolproof way to determine valency
 
