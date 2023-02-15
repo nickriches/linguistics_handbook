@@ -157,7 +157,9 @@ Available evidence suggests 2-stage model: (1) Activation of meaning, (2) Activa
 
 Phonological substitutions happen when the right meaning is activated, but the wrong form is chosen. Tip of the tongue effects are similar. We know the meaning, but in this case we can't activate the right form. In semantic substitution effects we accidentally choose the wrong meaning, and then select the form which corresponds to that meaning.
 
-The meaning level is called the "lemma" level, while the form level is called the "lexeme" level.
+The meaning level is called the **lemma** level, while the form level is called the **lexeme** level.
+
+![lemma_lexeme](lemma_lexeme-6456043.png)
 
 ## 5-minute Exercise
 

@@ -34,7 +34,7 @@ A mental representation of the thoughts we wish to put into words. We know what 
 
 In addition, to specifying entities and situations we take a particular **perspective** on the action. For example, we to decide which entity to **focus** on. Typically, the thing were are focusing on will come in non-subject position, will be specified with a full Noun Phrase (as opposed to a pronoun), and will take stress, e.g.
 
-1. I saw a strange man in the street. $[$ He $_{TOPIC}$ $]$ was wearing $[$ the weirdest clothes I've ever seen $_{FOCUS}$ $]$.
+1. I saw a strange man in the street. [ He <sub>TOPIC</sub> ] was wearing [ the weirdest clothes I've ever seen <sub>FOCUS</sub> ].
 
 We must also decide when the event took place (which will be expressed via **tense**), and how we wish to focus on the verb, e.g. do we wish to be inside the event, or outside the event. This is expressed as **grammatical aspect**.
 
@@ -46,6 +46,8 @@ We must also decide when the event took place (which will be expressed via **ten
 We **retrieve** (a) the lemmas (b) the argument structure
 
 We assign thematic thematic relations
+
+![lemma_lexeme_distinction](lemma_lexeme_distinction-6456071.png)
 
 ### 2. Functional level
 
@@ -77,19 +79,6 @@ The syntactic planning frame consists of (a) closed class morphemes, and (b) slo
 
    (**locative**, e.g. *the dog chased the cat up the tree*)
 
-#### The linking problem
-
-How do we ensure that right arguments get assigned to the right surface position?
-
-Jackendoff (1990) proposes a thematic hierarchy.
-
-1. We align arguments in a specific order based on their roles (e.g. AGENT > PATIENT > RECIPIENT)
-2. We then assign these arguments to slots in the frame on a one-by-one basis.
-
-But note this won't always give the right results, e.g.
-
-1. The man$_{AG.}$ **gave** the woman$_{REC.}$ the present$_{PAT.}$
-
 #### Errors in children
 
 Have a look at these errors in children. How have they arisen?
@@ -99,9 +88,11 @@ Have a look at these errors in children. How have they arisen?
 3. The lady is filling the sweets into the jar.
 4. The lady is covering the scarf on her head.       (Ebbels, 2007)
 
+Answer: the wrong planning frame has been chosen, but the arguments have been linked to the right position in the planning frame.
+
 ### 3. Positional level
 
-## 3a. What information is represented at the Positional level?
+#### 3a. What information is represented at the Positional level?
 
 Now we have syntactic information!
 
