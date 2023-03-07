@@ -148,3 +148,20 @@ For the following sentences:
 4. Janice and Elena were on holiday. Their house was being burgled.
 5. Jack added salt and pepper. The food tasted better.
 
+## Clinical applications
+
+Complex sentences are easier for children to understand / produce when their order is 'iconic' (de Ruiter, 2018). This means that the order of mention is the same as the order of occurrence, e.g.
+
+1. ICONIC: <u>Because</u> the bus was late she missed the lecture
+2. NON-ICONIC: She missed the lecture <u>because</u> the bus was late
+
+Note that whether the order is iconic or not will depend on the conjunction. If you use 'so', then to make the order iconic, the conjunction will come in the middle.
+
+3. ICONIC: The bus was late <u>so</u> she missed the lecture.
+
+Therapists can manipulate iconicity in their intervention, e.g. give the most simple order first?
+
+One way to teach children how conjunctions work is to use techniques such as 'Shape-coding' (Ebbels). This uses shapes and colours to show sentence structure. This technique can be used to show the two different orders of sentences containing subordinating conjunctions.
+
+de Ruiter, L. E., Theakston, A. L., Brandt, S., & Lieven, E. V. M. (2018). Iconicity affects children’s comprehension of complex sentences: The role of semantics, clause order, input and individual differences. *Cognition*, *171*, 202–224. https://doi.org/10.1016/j.cognition.2017.10.015
+
