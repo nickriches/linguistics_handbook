@@ -38,7 +38,7 @@ Dependent clauses can come inside any other syntactic function (except the Verb 
 Dependent clauses in Direct Object position
 
 1. Last night I dreamt [ (that) somebody loved me <sub>Od</sub>] (the Smiths)
-2. I'll tell $[$ you <sub>Oi</sub> ] [ what I want <sub>Od</sub>  ] (Spice Girls)
+2. I'll tell [ you <sub>Oi</sub> ] [ what I want <sub>Od</sub>  ] (Spice Girls)
 3. I told [ you <sub>Oi</sub> ] [ I was ill <sub>Oi</sub> ] (Spike Milligan's Epitaph)
 
 It may be easier to see that it is a Direct Object if you substitute it for the word "something" (the SOMETHING TEST!!)
@@ -123,7 +123,7 @@ These are "restrictive" relative clauses. They take a set of entities, and **res
 Relative clauses have a number of interesting properties.
 
 1. They are headed by a **relative pronoun** (who, that, which).
-2. The can contain **unusual word orders** (e.g. *There's the cat$_{OBJ}$ I$_{SUB}$ saw$_{VERB}$*)
+2. The can contain **unusual word orders** (e.g. *There's the cat <sub>OBJ</sub> I <sub>SUBJ. </sub> saw <sub>V</sub>*)
 3. They can **split Subjects from Verbs**
 
 **(b) The relative pronoun**
