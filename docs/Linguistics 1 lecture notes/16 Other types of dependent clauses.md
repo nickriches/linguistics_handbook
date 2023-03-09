@@ -16,7 +16,7 @@ Apart from the main cause ("We're looking for Girls", "Always should be someone"
 4. Who do girls like they're boys.
 5. …you really love
 
-We're going to be looking at these different types of clauses.
+Theses are dependent clauses but they are not adverbial clauses. We're going to be looking at dependent clauses which are not adverbial clauses.
 
 ## Clinical relevance
 
@@ -27,7 +27,7 @@ We're going to be looking at these different types of clauses.
 
 Last week, we looked at adverbial clauses, these come inside an adverbial:
 
-1. [ When [ I fall in love ~ADVERBIAL.CLAUSE~ $]$ ~ADVERBIAL~ ] it will be forever
+1. [ When [ I fall in love <sub>ADVERBIAL.CLAUSE</sub> $]$ <sub>ADVERBIAL</sub> ] it will be forever
 
 Dependent clauses can come inside any other syntactic function (except the Verb Complex): S, Od, Oi, Cs, Co, and Pmod
 
@@ -37,9 +37,9 @@ Dependent clauses can come inside any other syntactic function (except the Verb 
 
 Dependent clauses in Direct Object position
 
-1. Last night I dreamt [ (that) somebody loved me ~Od~] (the Smiths)
-2. I'll tell $[$ you ~Oi~ ] [ what I want ~Od~  ] (Spice Girls)
-3. I told [ you ~Oi~ ] [ I was ill ~Od~ ] (Spike Milligan's Epitaph)
+1. Last night I dreamt [ (that) somebody loved me <sub>Od</sub>] (the Smiths)
+2. I'll tell $[$ you <sub>Oi</sub> ] [ what I want <sub>Od</sub>  ] (Spice Girls)
+3. I told [ you <sub>Oi</sub> ] [ I was ill <sub>Oi</sub> ] (Spike Milligan's Epitaph)
 
 It may be easier to see that it is a Direct Object if you substitute it for the word "something" (the SOMETHING TEST!!)
 
@@ -51,8 +51,8 @@ It may be easier to see that it is a Direct Object if you substitute it for the 
 
 Clauses can also come as Subject or Object Complement
 
-1. Money, that's [ what I want ~Cs~ ] (Barrett Strong - Old Motown Hit)
-2. I'll name [ this ship ~Od~ ] [ whatever I want ~Co~ ] (King Charles -  (hungover))
+1. Money, that's [ what I want <sub>Cs</sub> ] (Barrett Strong - Old Motown Hit)
+2. I'll name [ this ship <sub>Od</sub> ] [ whatever I want <sub>Co</sub> ] (King Charle being moody)
 
 Again, we can substitute the phrase with SOMETHING:
 
@@ -63,7 +63,7 @@ Again, we can substitute the phrase with SOMETHING:
 
 Here is an example of a dependent clause in subject position
 
-1. [ That she passed the exam ~S~ ]  surprised her teacher.
+1. [ That she passed the exam <sub>S </sub> ]  surprised her teacher.
 
 However, it sounds a bit weird. It would be much more natural to say to move the long Subject to the end and replace it with a dummy/expletive "it":
 
@@ -157,8 +157,8 @@ We can imagine the relative pronoun as "moving" to the front of the relative cla
 
 When the relative pronoun refers to the OBJECT, we have an unusual (OSV) word order:
 
-1. There's the man who ~Obj.~ I ~Subj.~  saw ~V~
-2. There's the fish that that ~Obj.~ she ~Subj.~  ate ~V~
+1. There's the man who <sub>Obj.</sub> I <sub>Subj.</sub>  saw <sub>V</sub>
+2. There's the fish that that <sub>Obj.</sub> she <sub>Subj.</sub>  ate <sub>V</sub>
 
 **(d) Splitting subjects from verbs**
 
