@@ -1,4 +1,4 @@
-# Why worry about complex syntax
+# 06 - Why worry about complex syntax
 
 ## What is complex syntax?
 

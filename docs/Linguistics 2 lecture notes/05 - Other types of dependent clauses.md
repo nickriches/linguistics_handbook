@@ -1,4 +1,4 @@
-# 14 - Other types of dependent clause
+# 05 - Other types of dependent clause
 
 ## Homework
 

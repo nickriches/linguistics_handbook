@@ -1,4 +1,4 @@
-# 14 - (Spoken) sentence comprehension
+# 15 - (Spoken) sentence comprehension
 
 ## Garden path effects
 
