@@ -1,4 +1,4 @@
-# 06 Phrases
+# 06 - Phrases
 
 ## Yoda-speak
 

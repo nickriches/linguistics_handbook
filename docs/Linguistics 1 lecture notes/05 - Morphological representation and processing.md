@@ -1,4 +1,4 @@
-# 05 Morphological representation and processing
+# 05 - Morphological representation and processing
 
 ## Introduction
 

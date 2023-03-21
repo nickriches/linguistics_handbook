@@ -1,4 +1,4 @@
-# 16 - Verbs in the passenger seat
+# 13 - Argument Structure 2: Verbs in the passenger seat
 
 ## When verbs are in the passenger seat
 

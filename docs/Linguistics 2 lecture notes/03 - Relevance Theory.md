@@ -1,10 +1,10 @@
-# Relevance Theory
+# 03 - Relevance Theory
 
 ## Pros and Cons of Grice
 
 Grice's theory improves on Speech Act theory as he explains how implicatures are triggered (violation of maxims combined with the cooperative principle). However, he does not describe the inferential process in detail.
 
-In addition, interaction is not always coooperative, e.g.
+In addition, interaction is not always cooperative, e.g.
 
 1. A: Where have you been?<br>B: Why are you asking?
 
