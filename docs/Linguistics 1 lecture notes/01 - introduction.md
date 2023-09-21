@@ -34,13 +34,18 @@ The study of language, consisting of 4 subdomains
 Syntax encompasses word order, and how different languages form different structures
 
 Examples of different word orders in different languages:
-* English Subject-Verb-Object, e.g. Tom watches **TV**
-* Japanese SOV, e.g. Tom-san-wa **Terebi-o** Mimashita
+
+1. English Subject-Verb-Object, e.g. Tom watches **TV**
+
+2. Japanese SOV, e.g. Tom-san-wa **Terebi-o** Mimashita
 
 Examples of the way different languages form questions:
-* English questions involve movement, e.g. _What **is** he_  doing?\_
-* Japanese places 'ka' at the end
-* Spanish merely uses intonation
+
+1. English questions involve movement, e.g. _What **is** he_  doing?\_
+
+2. Japanese places 'ka' at the end
+
+3. Spanish merely uses intonation
 
 ### What is semantics?
 
