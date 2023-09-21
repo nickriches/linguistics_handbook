@@ -4,12 +4,21 @@
 
 ### Why SLTS need to know about linguistics
 
-* Is a child who says _Him go there_ language impaired?
-* CELF Formulating Sentences - what kind of linguistic skills are being measured?
-* ![celf4_fs](celf4_fs.png)
-* **Diagnose** language impairments
-* Identify **targets** for therapy
-* Devise **new** therapies
+- Diagnose language impairments
+
+e.g. if a child aged 3;11 says *him go there*, are they language-impaired?
+
+- Identify targets for therapy
+
+e.g. if a child says *him go there*, you might wish to work on pronouns (*him*), or verb forms (*go*)
+
+- Devise **new** therapies
+
+Once we have determined what kind of linguistic difficulties a child has we can then begin to create successful therapies.
+
+![celf4_fs](celf4_fs.png)
+
+
 
 ## What is linguistics?
 
@@ -22,19 +31,22 @@ The study of language, consisting of 4 subdomains
 
 ### What is syntax?
 
-* Syntax encompasses word order, and how different languages form different structures
-* Example of different word orders in different languages:
-  * English Subject-Verb-Object, e.g. Tom watches **TV**
-  * Japanese SOV, e.g. Tom-san-wa **Terebi-o** Mimashita
-* Examples of the way different languages form questions:
-  * English questions involve movement, e.g. _What **is** he_  doing?\_
-  * Japanese places 'ka' at the end
-  * Spanish merely uses intonation
+Syntax encompasses word order, and how different languages form different structures
+
+Examples of different word orders in different languages:
+* English Subject-Verb-Object, e.g. Tom watches **TV**
+* Japanese SOV, e.g. Tom-san-wa **Terebi-o** Mimashita
+
+Examples of the way different languages form questions:
+* English questions involve movement, e.g. _What **is** he_  doing?\_
+* Japanese places 'ka' at the end
+* Spanish merely uses intonation
 
 ### What is semantics?
 
-* The study of word and sentence meaning
-* BIG QUESTIONS: How are word meanings represented / expressed? How are word meanings combined to form sentence meanings?
+The study of word and sentence meaning
+
+BIG QUESTIONS: How are word meanings represented / expressed? How are word meanings combined to form sentence meanings?
 
 ### What is pragmatics
 
@@ -47,7 +59,7 @@ Interpretation 'no thanks' is only derivable if sentence is produced in the appr
 
 ### What is phonology?
 
-* Ask Ghada and Jalal!!
+Ask Ghada and Jalal!!
 
 ### Crossing over
 
