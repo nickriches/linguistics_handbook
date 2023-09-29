@@ -14,9 +14,9 @@ e.g. He has a lot of *joie de vivre*
 
 ## Definition
 
-Working definition is 'Minimal Independent Symbolic Unit' (MISU)
+Working definition is "Smallest independent unit of meaning"
 
-#### Minimal
+#### Smallest unit
 
 A "minimal" unit = we cannot split it into smaller pieces.
 
@@ -45,7 +45,7 @@ This property can be defined in a couple of ways:
 
 #### Symbolic
 
-This means that there is an **arbitrary** relationship between **form** and **function** (or **sound** and **meaning**)
+Words have meanings by virtue of an **arbitrary** relationship between **form** and **function** (or **sound** and **meaning**)
 
 To test this, we can take a single concept, and look at words to describe this concept across languages. The words will have very different sound properties.
 
