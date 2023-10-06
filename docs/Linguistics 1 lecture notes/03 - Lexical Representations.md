@@ -53,7 +53,7 @@ There are very few genuine synonyms, i.e. where denotation and connotation are t
 
 Words with opposite meanings. Can be gradable (e.g. _slightly hot_, _very cold_) or non-gradable (e.g. *_very dead_)
 
-Sometimes there is no obvious opposite, e.g. the opposite of _virgin_. There is a 'lexical gap'
+Sometimes there is no obvious opposite, e.g. the opposite of _bald_. There is a 'lexical gap'
 
 ### Homonymy
 
@@ -89,11 +89,10 @@ Both describe words with same form, but different meanings. The only difference 
 A language lacks a word where there should be one. Easily demonstrated with antonyms
 
 - Opposite of bald?
-- Opposite of virgin?
 
 Many English kinship terms are vague, e.g. English _cousin_ can be used for a variety of different relations, while Sudanese has different words for every type of cousin.
 
-Loan words, e.g. _kitsch_ & _schadenfreude_, are used to fill lexical gaps. A recent load word is _hygge_.
+Loan words, e.g. _kitsch_ & _schadenfreude_, are used to fill lexical gaps. A recent load word is _hygge_ (Danish word referring to a lifestyle / way of viewing the world which is characterised by an appreciation of life's little comforts, e.g. family boardgames, and cakes by an open fire...)
 
 ## Form-related relationships
 
