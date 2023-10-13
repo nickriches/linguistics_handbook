@@ -12,7 +12,7 @@ Language-impaired individuals, in particular children, tend to have morphologica
 
 Both words and morphemes are 'symbolic', meaning that there is an _arbitrary_ relationship between form and function.
 
-### WORD = minimal independent symbolic unit (or smallest _standalone_ unit of meaning)
+### WORD = smallest independent unit of meaning
 
 Words can stand alone, e.g.
 
@@ -21,7 +21,7 @@ Words can stand alone, e.g.
 3. Shark!!!!!!!!
 4. Run!!!!!!!!!
 
-### MORPHEME = minimal <del>independent</del> symbolic unit (or smallest <del>standalone</del> unit of meaning)
+### MORPHEME = smallest <del>independent</del> unit of meaning
 
 i.e. like the definition of a word but we have removed the requirement to be independent / stand alone.
 
@@ -122,11 +122,11 @@ Inflectional morphemes are generally viewed as a closed class. However, every no
 
 ## 5 minute exercise
 
-Look at these examples. What does the suffix 'mouth' mean? How do you pronounce it in each word?
+Look at these examples. How do you pronounce berry? Why does the pronunciation change for some words?
 
-1. Portsmouth
-2. Plymouth
-3. Tynemouth
-4. Grangemouth
-5. Cockermouth
+1. Blackberry
+2. Strawberry
+3. Loganberry
+4. Gooseberry
+5. Boysenberry
 
