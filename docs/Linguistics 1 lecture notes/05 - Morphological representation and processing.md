@@ -1,4 +1,6 @@
-# Introduction
+# 05 - Morphological representation and processing
+
+## Introductory exercise
 
 Look at these examples. How do you pronounce "berry" in each word? How do you account for any changes in pronunciation?
 
@@ -8,7 +10,7 @@ Look at these examples. How do you pronounce "berry" in each word? How do you ac
 4. Gooseberry
 5. Boysenberry
 
-# Dual systems models of morphology
+## Dual systems models of morphology
 
 These propose two systems involved in morphological storage / processing:
 
@@ -20,7 +22,7 @@ These propose two systems involved in morphological storage / processing:
 
    Morphologically complex words are stored / processed as wholes in the **lexicon**
 
-## Evidence for a computational system
+### Evidence for a computational system
 
 1. We can use morphemes *productively*
 
@@ -36,7 +38,7 @@ These propose two systems involved in morphological storage / processing:
 3. Evidence that we process sounds which are potentially morphemes as morphemes (*morpho-phonological parsing* - Post et al. 2008). For example reaction times indicate that we parse pseudo-inflections, e.g. *mil**d*** (potentially past tense of the verb *to mile*) as actual inflections. This results in longer reaction times in a task where participants need to determine whether two words, e.g. *mile* and *mild* are the same or different.
 4. Words with regular inflectional affixes tend to be phonotactically irregular (e.g. irregular *lost* rhymes with *frost*, but regular *turned* does not rhyme with any other monomorphemic word). This suggests they are not stored, as phonotactic regularity is assumed to be a characteristic of the lexicon.
 
-## Evidence of the whole-word storage of morphologically-complex words
+### Evidence of the whole-word storage of morphologically-complex words
 
 1. Some complex forms contain *non-word roots*, indicating that they haven't been built up compositionally, e.g.
    1. Un<u>remitt</u>ingly
@@ -70,7 +72,7 @@ The binary view may be too simple. Aitchison (2002) suggests a variety of differ
 
 For *chickenless*, both morphemes are semantically transparent. The word looks derived. For *careless*, the morphemes are transparent, but we are likely to store and process the word as a whole because it is high frequency. Finally, in *gormless* and *ruthless* the roots are not semantically transparent.
 
-# Morphology in language impairments - Ullman and Pinker's Dual Route model
+## Morphology in language impairments - Ullman and Pinker's Dual Route model
 
 Ullman and Pinker  explain language difficulties in terms of the computational and lexical systems, and also give it a neuropsychological grounding. The computational system is governed by **procedural memory** (involved in the acquisition of unconscious, implicit routines), while the lexical system resides in **declarative memory**. In particular, they focus on verbs
 
@@ -94,17 +96,17 @@ Evidence:
    1. Adults with Anomia
    2. Adults with Wernicke's type aphasia
 
-## Criticism of the dual route model
+### Criticism of the dual route model
 
-### (1) Pseudo-regularity (irregular forms exhibit characteristics of regular forms)
+#### (1) Pseudo-regularity (irregular forms exhibit characteristics of regular forms)
 
 Irregulars exhibit characteristics of the regular system, e.g. verbs already ending in an alveolar plosive are more likely to be irregular, e.g. *meet -> met, let -> let, put -> put, shut -> meet -> met*, and nouns already ending in -s are more likely to take irregular plurals, e.g. *goose -> geese, mouse -> mice, moose -> moose*. This has led some researchers to argue that there are not two completely separate systems for regular and irregular forms, e.g. Joanisse and Seidenberg (1999)
 
-### (2) The role of frequency
+#### (2) The role of frequency
 
 The Dual Route model argues that frequency effects are characteristic of the lexical/declarative system, but not the computational system. Nonetheless, frequency effects also characterise the regular system (e.g. Losiewicz and Alegre & Gordon studies cited above)
 
-# 5-minute exercise
+## 5-minute exercise
 
 Which one of these sentences did Yoda say in the Star Wars trilogy? Can you explain the reasons behind your choice?
 
@@ -112,7 +114,7 @@ Which one of these sentences did Yoda say in the Star Wars trilogy? Can you expl
 2. Powerful you have become. The dark side I sense in you.
 3. Become powerful you have. The dark I sense in you side.
 
-# Bibliography
+## Bibliography
 
 Aitchison, J. (2002). *Words in the Mind: An Introduction to the Mental Lexicon* (3rd Edition). Wiley-Blackwell.
 
