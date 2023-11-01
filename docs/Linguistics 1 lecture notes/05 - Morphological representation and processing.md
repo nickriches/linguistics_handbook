@@ -85,16 +85,28 @@ The two systems **compete** with each other under time pressure. If an irregular
 
 Evidence:
 
-1. Frequency effects are only found in the irregular system only
-   1. Children's overregularisation errors, e.g. *she swammed* are determined by the density of the irregular neighbourhood which the irregular root belongs to.
-   2. Adult generation of inflected form is affected by input frequency only in the irregular system.
-2. Difficulties with regular forms are linked to impaired procedural memory
-   1. Children with Developmental Language Disorder
-   2. Adults with Parkinsons
-   3. Adults with Broca's-type aphasia
-3. Difficulties with irregular forms are linked to impaired declarative memory
-   1. Adults with Anomia
-   2. Adults with Wernicke's type aphasia
+- **Frequency effects are only found in the irregular system only**
+
+  - Children's overregularisation errors, e.g. *she swammed* are determined by the density of the irregular neighbourhood which the irregular root belongs to.
+
+  - Adult generation of inflected form is affected by input frequency only in the irregular system.
+
+    
+
+- **Difficulties with regular forms are linked to impaired procedural memory**
+
+  - Children with Developmental Language Disorder
+
+  - Adults with Parkinsons
+
+  - Adults with Broca's-type aphasia
+
+    
+
+- **Difficulties with irregular forms are linked to impaired declarative memory**
+
+  - Adults with Anomia
+  - Adults with Wernicke's type aphasia
 
 ### Criticism of the dual route model
 
