@@ -40,7 +40,7 @@ First three are most reliable.
 
    (a) [Elliot <sub>NOUN PHRASE</sub>] loved [the cute green alien <sub>NOUN PHRASE</sub>] -> [He] loved [it]
 
-   (b) Elliot [hugged the cute green alien <sub>VERB PHRASE</sub>] and Gertie [did so <sub>VERB PHRASE</sub>] too (and [so did <sub>VERB PHRASE</sub>] Gertie)
+   (b) Elliot [hugged the cute green alien <sub>VERB PHRASE</sub>] and Gertie [did <sub>VERB PHRASE</sub>] too.
 
 2. **Question test**
 
