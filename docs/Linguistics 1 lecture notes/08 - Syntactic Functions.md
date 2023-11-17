@@ -85,8 +85,8 @@ Some verbs take two objects, in which case we have a **direct** and an **indirec
 Note that the Indirect Object is "parasitic" on the Direct Object in the sense that it needs a Direct Object in order to be realised;
 
 1. Janet gave [ a book <sub>DIRECT OBJECT</sub>]
-2. Janet gave [ a book $_{Direct~Object}$]. [ to Mary <sub>DIRECT OBJECT</sub> ]
-3. ?? Janet gave [ to Mary <sub>DIRECT OBJECT</sub> ]
+2. Janet gave [ a book <sub>DIRECT OBJECT</sub>]. [ to Mary <sub>INDIRECT OBJECT</sub> ]
+3. ?? Janet gave [ to Mary <sub>INDIRECT OBJECT</sub> ]
 
 For the following sentences, which are the direct and indirect objects?
 
@@ -142,7 +142,7 @@ NB these types of sentences are all examples of "the passive" which will be cove
 In many cases, the verb determines the functions which we can use, e.g. *sit* cannot be used with an Object Noun Phrase.
 
 1. Jack sat
-2. $*$ Jack sat [ the chair $_{OBJECT~NOUN~PHRASE}$]
+2. $*$ Jack sat [ the chair <sub>OBJECT NOUN PHRASE</sub> ]
 
 All of the above functions are, more-or-less, "chosen" by the verb.
 
