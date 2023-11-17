@@ -131,7 +131,7 @@ Complements are less moveable than objects. For example, in (1) and (2) below, w
 1. Jack gave Peter the book -> The book was given to Peter by Jack
 2. Jack gave Peter the book -> Peter was given the book by Jack
 3. Jack resembles Paul -> * Paul is resembled by Jack
-4. Magda named her daughter Isobel -> * Isobel was named her daughter by Magda
+4. Magda named her daughter Isobel -> <span>&#42;</span> Isobel was named her daughter by Magda
 
 NB these types of sentences are all examples of "the passive" which will be covered next semester
 
@@ -142,7 +142,7 @@ NB these types of sentences are all examples of "the passive" which will be cove
 In many cases, the verb determines the functions which we can use, e.g. *sit* cannot be used with an Object Noun Phrase.
 
 1. Jack sat
-2. $*$ Jack sat [ the chair <sub>OBJECT NOUN PHRASE</sub> ]
+2. <span>&#42;</span> Jack sat [ the chair <sub>OBJECT NOUN PHRASE</sub> ]
 
 All of the above functions are, more-or-less, "chosen" by the verb.
 
