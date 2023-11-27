@@ -133,7 +133,9 @@ Why not just assume that the way we use words in sentences is a direct result of
 
    These meanings can be "boiled down" to a difference in argument structure (or more specifically *valency*). The main difference appears to be that *say* takes 2 arguments, while *tell* takes 3 arguments.
 
-3. Verbs with very similar meanings have very different argument structure configurations, e.g.
+   
+
+   One final argument against the projectionist account is that verbs with very similar meanings have very different argument structure configurations, e.g.
 
    1. He gave a book to Mary / He gave her the book
    2. He donated a book to the library / *He donated the library a book
@@ -153,22 +155,22 @@ A proposition contains those entities which make the most important contribution
 
 Propositions come at the bottom of a three way heirarchy:
 
-1. Propositional level
+- Propositional level
 
-   chase(dog,cat)
+chase(dog,cat)
 
-2. Sentence level
+- Sentence level
 
-   a. The dog chased the cat
+a. The dog chased the cat
 
-   b. It chased the cat
+b. It chased the cat
 
-   c. The cat was chased by the dog
+c. The cat was chased by the dog
 
-3. Utterance level
+- Utterance level
 
-   A: Is your dog energetic?
-   B: Well, it chases the neighbour's cat every day!
+A: Is your dog energetic?
+B: Well, it chases the neighbour's cat every day!
 
 We need propositions to explain how different surface forms (e.g. 2) can have the same underlying meaning. The proposition IS the underlying meaning.
 
