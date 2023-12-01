@@ -7,7 +7,7 @@ Look at the following speech errors. What does this say about the integration be
 Conclusions:
 
 1. The sentence frame is appropriate but the words are in the wrong position. Therefore, it looks as if the sentence frame has been chosen before the words have been inserted
-2. The voicing on maniacs is consistent with the previous consonant. Therefore the voicing rule has been applied after the word swap has taken place.
+2. The voicing plural -s on maniac**s** is consistent with the previous consonant. Therefore the voicing rule has been applied after the word swap has taken place.
 3. Combining these two observations, we have evidence for 3 stages: (1) a stage which involves the selection of the frame (2) a stage which involves the insertion of words (3) a phonetic stage where the phonetic realisation of affixes is determined.
 
 ## Models of sentence production
