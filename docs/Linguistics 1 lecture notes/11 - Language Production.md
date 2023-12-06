@@ -111,7 +111,7 @@ Evidence that segments and metrical structure are stored separately:
    2. Five o'**clock** in the <u>after-**noon**</u> / We had <u>**after**-noon</u> **tea**.
    3. It was <u>ca-ta-**stroph**-ic</u> / It was a <u>**ca**-ta-strophic</u> **fai**lure
 2. Evidence from aphasia (Nickels & Howard, 1999)
-   1. Aphasic individuals often produce phonemes in correct order, but not correct stress pattern
+   1. Individuals with aphasia often produce phonemes in correct order, but not correct stress pattern
    2. Are much better at naming items with more frequent stress patterns
 
 ### 4. Phonetic level
