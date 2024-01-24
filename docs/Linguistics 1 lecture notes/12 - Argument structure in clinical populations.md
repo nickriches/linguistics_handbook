@@ -14,7 +14,7 @@ Deciding how many verbs an argument has is not straightforward. For example,
 
 1. She sneezed (valency = 1)
 2. She sneezed a big bogey (valency = 2)
-3. She sneezed the handkerchief | off the table (valency = 3)
+3. She sneezed | the handkerchief | off the table (valency = 3)
 
 So what valency is ‘sneeze’?
 
