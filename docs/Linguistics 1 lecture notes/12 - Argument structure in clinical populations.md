@@ -16,7 +16,7 @@ Deciding how many verbs an argument has is not straightforward. For example,
 2. She sneezed a big bogey (valency = 2)
 3. She sneezed | the handkerchief | off the table (valency = 3)
 
-So what valency is ‘sneeze’?
+So what valency is ‘sneeze’? Most people would intuit that sneeze has a valency of 1. We would typically only use it with one argument. Though it can take a valency of 2 or 3, these are odd / marginal. As you can see there is a lot of intuition when determining valency. A more scientific approach is to look at corpora to see how people actually use verbs.
 
 Arguments can be compared with **adverbials** /**adjuncts** which are non-essential participants, and therefore optional. Adverbials can also move around the sentence easily
 
@@ -41,7 +41,7 @@ Can be used to explain sentences such as
 1. Patrick gave the ball to Mary
 2. Mary received the ball from Patrick
 
-How can we explain different roles in subject position? They must be assigned by argument structure; give&lt;AGENT, BEN., PATIENT&#12297; (underlining shows external argument)
+How can we explain different roles in subject position? They must be assigned by argument structure. The argument structure must specify which of the thematic relations is assigned to subject position (often shown using underlining)
 
 With one major exception (the external argument), arguments are **generally not marked for surface position**, e.g. BENEFACTIVE can appear as direct or indirect object, e.g. *She gave him(BEN) the ball* versus *She gave the ball to him(BEN)*
 
@@ -60,9 +60,9 @@ Therefore argument structure lies **somewhere between syntax and semantics**
 
 ### c. Do we need argument structure?
 
-Can't we just plug the verb into the relevant syntactic frame?
+Can't we just plug the verb into the relevant syntactic frame without the need for an intermediate level?
 
-1. Argument structure guides mapping process, e.g. by specifying the subject (external) argument.
+1. Argument structure tells us which thematic relation we need to map to Subject position.
 2. Roles played by arguments seem to fall into a small set of neat classes, e.g. AGENT (doer), PATIENT (do-ee), BENEFACTIVE (receiver) etc. The level of argument structure formalises this intuition
 
 But some have suggested we don’t need an independent level of representation called ‘argument structure’ (Goldberg, 1985; a Construction Grammar Approach to Argument Structure)
@@ -75,14 +75,11 @@ Difficulties with arguments and argument structure will affect communication
 
 ## 2. What can go wrong?
 
-**Difficulties with verb meanings**. Poor knowledge of verb meanings &rarr; poor knowledge of thematic roles &rarr; omission of thematic roles.
+**Difficulties with verb meanings**.
 
-**Difficulties with argument structure itself**. Good knowledge of verb meanings, but poor knowledge of thematic roles.
+**Difficulties with argument structure itself**.
 
-**Mapping difficulties**. Good knowledge of argument structure, but difficulties mapping this onto surface form. Difficulties could arise from;
-
-1. Incomplete knowledge of the semantic properties of particular constructions (e.g. what roles come in what slots)
-2. Processing difficulties leading to accidental mis-selection of appropriate frame.
+**Mapping difficulties**.
 
 What's gone wrong with these examples?
 
@@ -98,25 +95,24 @@ What level of representation is being tested by the following? (examples from Ma
 
 1. Do the following sentences sound okay?
 
-a.     The thug dies the woman
+a. The thug dies the woman
+b. The policeman shoots the thief
 
-b.     The policeman shoots the thief
+c. The woman spills the floor
 
-c.     The woman spills the floor
+d. The woman murders the table
 
-d.     The woman murders the table
-
-e.     The man skates the ice
+e. The man skates the ice
 
 2. Which word is the odd one out?
 
-a.        The man / the newspaper / the television / reads
+a.    The man / the newspaper / the television / reads
 
-b.     The hammer / sharpens / the man / the knife
+b. The hammer / sharpens / the man / the knife
 
-c.     the water / the glass / pours / the man
+c. the water / the glass / pours / the man
 
-d.     the water / the jug / fills / the man
+d. the water / the jug / fills / the man
 
 ## 3. Aphasia
 
