@@ -8,7 +8,7 @@ Argument = *essential participant* in an event described by a verb, i.e. we cann
 
 Arguments are *often, but not always obligatory*
 
-An argument is a part of a **proposition** (which contains a **predicate**, e.g. event or relationship, and at least one argument). E.g. Mary kissed Jack $rarr; kiss(Mary, Jack)
+An argument is a part of a **proposition** (which contains a **predicate**, e.g. event or relationship, and at least one argument). E.g. Mary kissed Jack &rarr; kiss(Mary, Jack)
 
 Deciding how many verbs an argument has is not straightforward. For example,
 
@@ -93,7 +93,7 @@ Difficulties with arguments and argument structure will affect communication
 
 ## 2. What can go wrong?
 
-**Difficulties with verb meanings**. Poor knowledge of verb meanings $rarr; poor knowledge of thematic roles $rarr; omission of thematic roles.
+**Difficulties with verb meanings**. Poor knowledge of verb meanings &rarr; poor knowledge of thematic roles &rarr; omission of thematic roles.
 
 **Difficulties with argument structure itself**. Good knowledge of verb meanings, but poor knowledge of thematic roles.
 
@@ -162,9 +162,9 @@ According to Webster et al. (2001, 2007) Sensitive indicators were;
 
 Difficulties naming verbs (Berndt et al. 1997; Kim & Thompson, 2000; Marshall et al. 2007). Possible semantic difficulties with verbs which are likely to impact on argument structure.
 
-Kim & Thompson (2000) - retrieval of verbs in isolation affected by valency $rarr; AS is an integral part of verb representation
+Kim & Thompson (2000) - retrieval of verbs in isolation affected by valency &rarr; AS is an integral part of verb representation
 
-Verb naming difficulties are associated with comprehension of semantically-reversible sentences, e.g. *the boy is kissing the girl, the girl was kissed by the boy* (Berndt et al. 1997) -$rarr; Semantic difficulties?
+Verb naming difficulties are associated with comprehension of semantically-reversible sentences, e.g. *the boy is kissing the girl, the girl was kissed by the boy* (Berndt et al. 1997) -&rarr; Semantic difficulties?
 
 Difficulties identifying ungrammaticality related to subcategorisation (e.g. *the woman spills the floor*) (Marshall et al. 2007)
 
