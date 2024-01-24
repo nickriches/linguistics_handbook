@@ -8,7 +8,7 @@ Argument = *essential participant* in an event described by a verb, i.e. we cann
 
 Arguments are *often, but not always obligatory*
 
-An argument is a part of a **proposition** (which contains a **predicate**, e.g. event or relationship, and at least one argument). E.g. Mary kissed Jack -> kiss(Mary, Jack)
+An argument is a part of a **proposition** (which contains a **predicate**, e.g. event or relationship, and at least one argument). E.g. Mary kissed Jack $rarr; kiss(Mary, Jack)
 
 Deciding how many verbs an argument has is not straightforward. For example,
 
@@ -31,17 +31,17 @@ Consists of
 
 A predominantly **semantic** level of representation, e.g. meaning of the verb determines both number of arguments and the roles they play. Roles are also semantic.
 
-1. laugh &lt;AGENT&rt;
-2. eat &lt;AGENT, PATIENT&rt;
-3. give &lt;AGENT, BENEFACTIVE, PATIENT&rt;
-4. receive &lt;BENEFACTIVE, PATIENT, AGENT&rt;
+1. laugh &lt;AGENT &#12297;
+2. eat &lt;AGENT, PATIENT &#12297;
+3. give &lt;AGENT, BENEFACTIVE, PATIENT&#12297;
+4. receive &lt;BENEFACTIVE, PATIENT, AGENT&#12297;
 
 Can be used to explain sentences such as
 
 1. Patrick gave the ball to Mary
 2. Mary received the ball from Patrick
 
-How can we explain different roles in subject position? They must be assigned by argument structure; give&lt;AGENT, BEN., PATIENT&rt; (underlining shows external argument)
+How can we explain different roles in subject position? They must be assigned by argument structure; give&lt;AGENT, BEN., PATIENT&#12297; (underlining shows external argument)
 
 With one major exception (the external argument), arguments are **generally not marked for surface position**, e.g. BENEFACTIVE can appear as direct or indirect object, e.g. *She gave him(BEN) the ball* versus *She gave the ball to him(BEN)*
 
@@ -93,7 +93,7 @@ Difficulties with arguments and argument structure will affect communication
 
 ## 2. What can go wrong?
 
-**Difficulties with verb meanings**. Poor knowledge of verb meanings -> poor knowledge of thematic roles -> omission of thematic roles.
+**Difficulties with verb meanings**. Poor knowledge of verb meanings $rarr; poor knowledge of thematic roles $rarr; omission of thematic roles.
 
 **Difficulties with argument structure itself**. Good knowledge of verb meanings, but poor knowledge of thematic roles.
 
@@ -116,7 +116,7 @@ What level of representation is being tested by the following? (examples from Ma
 
 1. Do the following sentences sound okay?
 
-a.        The thug dies the woman
+a.     The thug dies the woman
 
 b.     The policeman shoots the thief
 
@@ -162,9 +162,9 @@ According to Webster et al. (2001, 2007) Sensitive indicators were;
 
 Difficulties naming verbs (Berndt et al. 1997; Kim & Thompson, 2000; Marshall et al. 2007). Possible semantic difficulties with verbs which are likely to impact on argument structure.
 
-Kim & Thompson (2000) - retrieval of verbs in isolation affected by valency -> AS is an integral part of verb representation
+Kim & Thompson (2000) - retrieval of verbs in isolation affected by valency $rarr; AS is an integral part of verb representation
 
-Verb naming difficulties are associated with comprehension of semantically-reversible sentences, e.g. *the boy is kissing the girl, the girl was kissed by the boy* (Berndt et al. 1997) --> Semantic difficulties?
+Verb naming difficulties are associated with comprehension of semantically-reversible sentences, e.g. *the boy is kissing the girl, the girl was kissed by the boy* (Berndt et al. 1997) -$rarr; Semantic difficulties?
 
 Difficulties identifying ungrammaticality related to subcategorisation (e.g. *the woman spills the floor*) (Marshall et al. 2007)
 
