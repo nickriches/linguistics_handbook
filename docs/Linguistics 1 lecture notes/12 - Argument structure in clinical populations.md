@@ -67,25 +67,7 @@ Can't we just plug the verb into the relevant syntactic frame?
 
 But some have suggested we don’t need an independent level of representation called ‘argument structure’ (Goldberg, 1985; a Construction Grammar Approach to Argument Structure)
 
-### d. What is the mapping process?
-
-Verbs must be linked to surface positions. This is called *mapping* or *linking*.
-
-How do we know which position to link to?
-
-Old approach (Breedin, 1996; Levin & Hovav, 1995) - line up thematic roles in a particular order, and map them one-by-one to available surface positions. Sometimes called “linking rules”
-
-New approach (Goldberg, 1995)- Grammatical constructions specify which arguments are required in each slot, e.g.
-
-1. AGENT + Verb + PATIENT (the transitive schema)
-2. AGENT + Verb + BENEFACTIVE + PATIENT (the ditransitive schema)
-
-This approach can be demonstrated by sentences which "squish" verbs into argument structure constructions where they do not usually occur
-
-1. AGENT + Verb + PATIENT + LOCATION (locative)
-2. She sneezed the handkerchief off the table.
-
-### e. Why is Argument structure important
+### d. Why is Argument structure important
 
 The verb and its arguments form the “core” of the sentence
 
