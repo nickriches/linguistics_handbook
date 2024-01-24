@@ -31,17 +31,17 @@ Consists of
 
 A predominantly **semantic** level of representation, e.g. meaning of the verb determines both number of arguments and the roles they play. Roles are also semantic.
 
-1. laugh <AGENT>
-2. eat <AGENT, PATIENT>
-3. give <AGENT, BENEFACTIVE, PATIENT>
-4. receive <BENEFACTIVE, PATIENT, AGENT>
+1. laugh &lt;AGENT&rt;
+2. eat &lt;AGENT, PATIENT&rt;
+3. give &lt;AGENT, BENEFACTIVE, PATIENT&rt;
+4. receive &lt;BENEFACTIVE, PATIENT, AGENT&rt;
 
 Can be used to explain sentences such as
 
 1. Patrick gave the ball to Mary
 2. Mary received the ball from Patrick
 
-How can we explain different roles in subject position? They must be assigned by argument structure; give<AGENT, BEN., PATIENT> (underlining shows external argument)
+How can we explain different roles in subject position? They must be assigned by argument structure; give&lt;AGENT, BEN., PATIENT&rt; (underlining shows external argument)
 
 With one major exception (the external argument), arguments are **generally not marked for surface position**, e.g. BENEFACTIVE can appear as direct or indirect object, e.g. *She gave him(BEN) the ball* versus *She gave the ball to him(BEN)*
 
@@ -154,8 +154,8 @@ According to Webster et al. (2001, 2007) Sensitive indicators were;
 
 1. No thematic relation > 8.5%
 2. one-place predicate > 23%
-3. two-place predicate < 41%
-4. three-place predicate < 7%
+3. two-place predicate &lt; 41%
+4. three-place predicate &lt; 7%
 5. Omission of obligatory arguments > 2% of sentences Use of adverbials / complexity of phrases did not distinguish groups.
 
 ### b. Difficulties with verb representations
@@ -188,11 +188,11 @@ Low type-token ratios (Bastiaanse & Bol, 2001)
 
 Omission of subject arguments (Grela, 2003) - a pattern found in young typically developing children
 
-Thordardottir & Ellis Weismer (Thordardottir & Weismer, 2002) - Narrow range of thematic roles (SLI < TD-AM & TD-MLU)
+Thordardottir & Ellis Weismer (Thordardottir & Weismer, 2002) - Narrow range of thematic roles (SLI &lt; TD-AM & TD-MLU)
 
-Range of Predicate Argument Structures (SLI < TD-AM, TD-MLU)
+Range of Predicate Argument Structures (SLI &lt; TD-AM, TD-MLU)
 
-Number of alternations (same verb used in different frames); SLI < TD-AM & TD-MLU
+Number of alternations (same verb used in different frames); SLI &lt; TD-AM & TD-MLU
 
 Overall findings
 
