@@ -12,7 +12,7 @@ The issue with this sentence is that *sneeze* is typically an intransitive verb 
 
 2. The meaning of the sentence comes, in part, form the sentence frame or 'construction'.
 
-   The construction NP$_1$ + V + NP$_2$ + PP means *NP$_1$ acts upon NP$_2$ such that NP$_2$ changes location*. The verb is then 'squished' into the construction, and the two meanings (verb + construction) are 'fused'
+   The construction NP<sub>1</sub> + V + NP<sub>2</sub> + PP means *NP<sub>1</sub> acts upon NP<sub>2</sub> such that NP<sub>2</sub> changes location*. The verb is then 'squished' into the construction, and the two meanings (verb + construction) are 'fused'
 
 By assuming that constructions have meaning, we can overcome a lot of problems with traditional Verb Argument Structure accounts.
 
