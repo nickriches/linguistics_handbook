@@ -4,7 +4,13 @@
 
 ## Why testing yourself is the key to learning
 
-There is substantial research indicating that we learn best when we continually test our knowledge of a topic (Karpicke et al., 2009; Roediger & Karpicke, 2006). This effect is called the “testing effect”, and a learning strategy which depends on continually testing yourself is called “test-enhanced” learning. Amazingly, there is good evidence that the very act of testing yourself is beneficial, even if you do not successfully recall the relevant information (Kornell et al., 2015; Kornell & Vaughn, 2016; Vaughn et al., 2017). This is pretty extraordinary and suggests that time spent studying at your desk is never wasted, even if you are struggling to recall the material.
+There is substantial research indicating that we learn best when we continually test our knowledge of a topic (Karpicke et al., 2009; Roediger & Karpicke, 2006). Roediger and Karpicke (2006) tested students' learning of information in short passages about scientific topics. They varied the degree to which individuals were tested on their knowledge by giving them a blank sheet of paper, and asking them to recall as much information as possible. The results are shown below
+
+![](Roediger.png)
+
+We can see that while conditions involving lots of Study (SSSS, SSST) led to better retention after five minutes, the conditions involving lots of testing led to better retention after an interval of 1 week. The moral of the story is that "cramming" works, to an extent, but leads to very poor retention.
+
+The effect whereby repeated self-testing leads to better learning is called the “testing effect”, and a learning strategy which depends on continually testing yourself is called “test-enhanced” learning. Amazingly, there is good evidence that the very act of testing yourself is beneficial, even if you do not successfully recall the relevant information (Kornell et al., 2015; Kornell & Vaughn, 2016; Vaughn et al., 2017). This is pretty extraordinary and suggests that time spent studying at your desk is never wasted, even if you are struggling to recall the material.
 
 The way that you test yourself depends on the material you are learning. For example, if testing new words in a foreign language you could have a card with the word in your first language (e.g. English) on one side, and the word in the target language (e.g. French) on the other side. You can work your way through the pack, read the English word, try to recall the French word, and test your knowledge by turning over the card. You could also do this process in reverse, e.g. look at the French word, and try to translate this into English.
 
@@ -40,7 +46,12 @@ However, while the information you are given fits into an overarching structure,
 
 ## The Cornell note-taking system
 
-A good tried and tested note-taking system is called “Cornell Notes”, which was devised by  Prof. Walter Pauk of Cornell University in the 1950s. If you do an internet search you will find loads of materials on this approach. Here is one [link](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b) to start you off.
+A good tried and tested note-taking system is called “Cornell Notes”, which was devised by  Prof. Walter Pauk of Cornell University in the 1950s. This implements test-enhanced learning via a column on the left hand side of the page. In this column you write the cues which you need in order to test your learning. You just cover your notes with your right hand and use the cues in the left-hand column to try to remember the material.
+
+![](cornell_notetaking_method.png)
+
+
+If you do an internet search you will find loads of materials on this approach. Here is one [link](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b) to start you off.
 
 ## Why writing notes on slides may not be helpful
 
