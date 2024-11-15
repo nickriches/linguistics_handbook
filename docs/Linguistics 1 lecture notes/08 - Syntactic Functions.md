@@ -173,6 +173,23 @@ In English, case-marking only applies to Pronouns:
 1. Subject form (called NOMINATIVE or SUBJECTIVE case) = I, you, he/she/it, we, you, they
 2. Od, Oi, Cs, Co form (called ACCUSATIVE or OBJECTIVE form) = Me, you, him/her/it, us, you. them
 
+We apply the nominative case to subjects and the accusative case to **any other pronoun**, e.g.
+
+1. **She** likes **her**
+2. **They** like **him**
+3. **He** shared his dinner with **them**
+
+We also use the accusative for standalone pronouns, e.g.
+
+1. A: Amanda won the school prize, B: **Her**!!??
+
+Because of this behaviour, the accusative case is often called the **default** case.
+
+Interestingly we also use accusative case in conjoined subjects;
+
+1. **Me** and Jack ate all the pizza
+2. Frances and **him** decided to bunk class
+
 We also apply the GENITIVE CASE (denoting possession) to Nouns, e.g.
 
 1. She scratched **Anna's** car.
