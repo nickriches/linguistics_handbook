@@ -158,8 +158,8 @@ The maxims are as follows:
 
 1. Maxim of **quality*:*** ‘Be truthful’<br>Try to make your contribution one that is true.<br>Do not say that which you believe to be false.<br>Do not say that for which you lack adequate evidence.
 2. Maxim of **quantity**: 'Be brief'<br>Make your contribution as informative as is required (for the current purposes of the exchange). Do not make your contribution more informative than is required.<br>Example: A: *I don't have a pen*. B: *Peter's got one*. Peter may have ten pens, but if B were to respond *Peter's got ten*, this would be overly informaive.
-3. Maxim of **manner**: 'Be brief'<br>Make your contribution as informative as is required (for the current purposes of the exchange). Do not make your contribution more informative than is required.
-4. Maxim of **relation**: 'Be clear'<br>Make your contributions relevant. <br>Be perspicuous (ie clear, lucid).<br>Avoid ambiguity. <br>Avoid obscurity of expression.<br>Avoid unnecessary prolixity (don’t waffle)<br>Be orderly, e.g. don't say *he rode off and jumped on his horse*, even though it may be literally true.
+3. Maxim of **manner**: 'Be clear' <br>Be perspicuous (ie clear, lucid).<br>Avoid ambiguity. <br>Avoid obscurity of expression.<br>Avoid unnecessary prolixity (don’t waffle)<br>Be orderly, e.g. don't say *he rode off and jumped on his horse*, even though it may be literally true.
+4. Maxim of **relation**: • ‘Be relevant’ <br> Make your contributions relevant, e.g.A: Can I borrow a fiver? B: My purse is on the table. A more relevant response would be: “Yes, you can."
 
 ### How do they lead to implicatures?
 
